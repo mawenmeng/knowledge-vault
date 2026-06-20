@@ -6,29 +6,7 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:wiki [\"tags\":电线电缆",
-      "color": {
-        "a": 1,
-        "rgb": 12858934
-      }
-    },
-    {
-      "query": "path:raw [\"type\":水泥",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "[\"title\":液化石油气（LPG）",
-      "color": {
-        "a": 1,
-        "rgb": 9423892
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -39,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000078,
+  "scale": 0.637298736472691,
   "close": false
 }

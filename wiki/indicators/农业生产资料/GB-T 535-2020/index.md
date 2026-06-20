@@ -9,8 +9,5 @@ category: 农业生产资料
 
 ## 技术指标
 
-- [[wiki/indicators/农业生产资料/GB-T 535-2020/农业生产资料|农业生产资料]]
-  - <!-- empty -->]]
-    - [[wiki/indicators/农业生产资料/GB-T 535-2020/通用_≥20.5%|通用 ≥20.5%]]
-    - [[wiki/indicators/农业生产资料/GB-T 535-2020/通用_≤0.2%|通用 ≤0.2%]]
-    - [[wiki/indicators/农业生产资料/GB-T 535-2020/通用_≤1.0%|通用 ≤1.0%]]
+- [[wiki/indicators/农业生产资料/GB-T 535-2020/化学成分|化学成分]]
+- [[wiki/indicators/农业生产资料/GB-T 535-2020/物理性能|物理性能]]

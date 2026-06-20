@@ -1,0 +1,17 @@
+---
+title: 有效五氧化二磷(P₂O₅)
+type: indicator-subcategory
+std: GB/T 20412-2021
+std_name: 钙镁磷肥
+category: 农业生产资料
+tags: [技术指标子类, 农业生产资料]
+---
+
+# 有效五氧化二磷(P₂O₅)
+
+**所属标准：** [[wiki/standards/农业生产资料类标准技术指标#GB/T 20412-2021|GB/T 20412-2021 钙镁磷肥]]
+**指标类别：** [[wiki/indicators/农业生产资料/GB-T 20412-2021/养分含量|养分含量]]
+
+## 指标值
+
+- [[wiki/indicators/农业生产资料/GB-T 20412-2021/通用_≤0.5%|通用 ≥15.0%]]

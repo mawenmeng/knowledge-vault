@@ -22,6 +22,13 @@ sources: [[wiki/sources/2026-06-20-national-standards-collection]]
 | GB/T 36126 | 汽车用液化天然气加气机 | 2018 |
 | GB/T 32964 | 液化天然气用不锈钢焊接钢管 | 2016 |
 
+## 相关标准
+- [[wiki/standards/工业生产资料类标准技术指标|工业生产资料类标准技术指标（含LNG）]]
+- [[wiki/standards/交通用具及相关产品类标准技术指标|交通用具及相关产品类标准技术指标]]
+
 ## 相关概念
 - [[wiki/concepts/液化石油气（LPG）]]
 - [[wiki/concepts/national-standards-gb]]
+- [[wiki/concepts/工业生产资料]]（监管目录分类）
+- [[wiki/concepts/交通用具及相关产品]]（监管目录分类）
+- [[wiki/sources/2026-06-20-national-quality-supervision-catalog]]

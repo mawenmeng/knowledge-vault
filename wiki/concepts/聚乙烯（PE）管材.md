@@ -28,3 +28,6 @@ sources:
 
 ## 相关概念
 - [[wiki/concepts/national-standards-gb]]
+- [[wiki/concepts/工业生产资料]]（监管目录分类）
+- [[wiki/concepts/家具及建筑装饰装修材料]]（监管目录分类）
+- [[wiki/sources/2026-06-20-national-quality-supervision-catalog]]

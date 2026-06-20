@@ -1,7 +1,7 @@
 """Push new files to GitHub - handles existing files with sha"""
 import urllib.request, urllib.parse, json, base64, os
 
-TOKEN = 'PLACEHOLDER_TOKEN…8CkR'
+TOKEN = 'PLACEHOLDER_TOKEN'
 OWNER = 'mawenmeng'
 REPO = 'knowledge-vault'
 API = f'https://api.github.com/repos/{OWNER}/{REPO}/contents'

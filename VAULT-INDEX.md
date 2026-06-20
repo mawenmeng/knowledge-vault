@@ -1,51 +1,120 @@
-# VAULT-INDEX.md — 知识库实时仪表盘
+---
+title: 仓库完整索引
+type: vault-index
+updated: 2026-06-20
+---
 
-> 本文件由 LLM 自动维护，反映知识库的当前状态。
+# 📚 知识库完整索引
 
-## 概览
+> 基于 Karpathy LLM Wiki 方法论构建
 
-- **最后更新**: 2026-06-20 12:45
-- **资料总数**: 81 份 PDF
-- **Wiki 页面总数**: 13
-- **概念数**: 7
-- **实体数**: 3
-- **综合报告**: 2
+## 目录结构
 
-## 最近操作
+```
+D:\knowledge-vault/
+├── CLAUDE.md              # 工作流配置
+├── README.md              # 仓库说明
+├── VAULT-INDEX.md         # 本文件
+├── .obsidian/             # Obsidian配置
+├── .claude/skills/        # Claude技能文件
+│   ├── ingest-wiki.md     # 摄入
+│   ├── query-wiki.md      # 查询
+│   ├── synthesize-wiki.md # 综合
+│   └── lint-wiki.md       # 检查
+├── raw/
+│   ├── data/              # 原始数据（PDF、OCR结果、脚本）
+│   └── articles/          # 原始文章
+├── wiki/
+│   ├── index.md           # 知识图谱索引
+│   ├── log.md             # 变更日志
+│   ├── hot.md             # 热点/待办
+│   ├── sources/           # 资料源
+│   ├── concepts/          # 概念（监管目录分类）
+│   ├── entities/          # 实体（标委会、协会）
+│   ├── standards/         # 标准技术指标（按监管目录分类）
+│   └── syntheses/         # 综合报告
+```
 
-| 时间 | 操作 | 说明 |
-|------|------|------|
-| 12:45 | Ingest | 技术指标知识图谱（标准→指标→值→引用关系） |
-| 12:16 | Ingest | OCR 重新提取 81 份标准，创建综合报告 + 实体页 |
-| 12:03 | Ingest | 首批摄入，创建 7 个概念页 |
+---
 
-## 页面统计
+## 资料源
 
-| 类型 | 数量 | 目录 |
-|------|------|------|
-| 资料摘要 | 1 | wiki/sources/ |
-| 概念 | 7 | wiki/concepts/ |
-| 实体 | 3 | wiki/entities/ |
-| 标准（按类别） | 4 | wiki/standards/ |
-| 对比分析 | 0 | wiki/comparisons/ |
-| 综合报告 | 2 | wiki/syntheses/ |
+| 文件 | 说明 |
+|:----|:-----|
+| [[wiki/sources/2026-06-20-national-standards-collection]] | 81份国家标准PDF资料集 |
+| [[wiki/sources/2026-06-20-national-quality-supervision-catalog]] | 全国重点工业产品质量安全监管目录（2026年版） |
 
-## 知识图谱统计
+---
 
-| 维度 | 数据 |
-|------|------|
-| 标准总数 | 81 |
-| 提取技术指标 | ~365 条 |
-| 标准引用关系 | ~890 条 |
-| 图谱结构 | 标准→指标→值(数值+单位+约束) |
-| 引用网络 | 标准→引用标准 |
-| 图谱链接 | 4 个类别页面，通过 [[链接]] 关联到概念页 |
+## 概念页（监管目录分类体系）
 
-## 待办 / 建议
+| 概念页 | 产品数 | 高等级 | 关联标准 |
+|:------|:-----:|:-----:|:--------|
+| [[wiki/concepts/家用电器及电器附件]] | 65 | 7 | — |
+| [[wiki/concepts/家具及建筑装饰装修材料]] | 47 | 4 | PE管材 |
+| [[wiki/concepts/电子及信息技术产品]] | 18 | 0 | — |
+| [[wiki/concepts/交通用具及相关产品]] | 29 | 6 | LPG/LNG/甲醇燃料 |
+| [[wiki/concepts/儿童用品]] | 27 | 10 | — |
+| [[wiki/concepts/食品相关产品]] | 18 | 5 | — |
+| [[wiki/concepts/服装鞋帽及家用纺织品]] | 9 | 2 | — |
+| [[wiki/concepts/燃气器具及配件产品]] | 10 | 2 | LPG |
+| [[wiki/concepts/老年人用品]] | 6 | 1 | — |
+| [[wiki/concepts/日用杂品]] | 25 | 2 | — |
+| [[wiki/concepts/文教体育用品]] | 6 | 1 | — |
+| [[wiki/concepts/工业生产资料]] | 50 | 16 | 水泥/LPG/LNG/PE管材/电线电缆/化工原料 |
+| [[wiki/concepts/农业生产资料]] | 19 | 11 | 肥料 |
 
-- [ ] 获取正式文字版标准以替代 OCR 扫描件
-- [ ] 补充电线电缆类标准的技术参数
-- [ ] 补充塑料薄膜类标准的技术参数
-- [ ] 补充 PE 管材类标准的技术参数
-- [x] 创建标准页面和技术指标页面，图谱视图可见链接关系
-- [x] 改为按类别组织标准页面（4个类别页）
+## 原有概念页
+
+| 概念页 | 说明 |
+|:------|:-----|
+| [[wiki/concepts/national-standards-gb]] | 国家标准体系 |
+| [[wiki/concepts/肥料]] | 肥料分类与标准体系 |
+| [[wiki/concepts/水泥]] | 水泥分类与标准体系 |
+| [[wiki/concepts/聚乙烯（PE）管材]] | PE管材标准体系 |
+| [[wiki/concepts/液化天然气（LNG）]] | LNG标准体系 |
+| [[wiki/concepts/液化石油气（LPG）]] | LPG标准体系 |
+| [[wiki/concepts/电线电缆试验方法]] | 电线电缆试验方法体系 |
+
+---
+
+## 实体页
+
+| 实体页 | 说明 |
+|:------|:-----|
+| [[wiki/entities/SAC-TC105]] | 全国肥料和土壤调理剂标准化技术委员会 |
+| [[wiki/entities/SAC-TC213]] | 全国液化天然气标准化技术委员会 |
+| [[wiki/entities/CPCIF]] | 中国石油和化学工业联合会 |
+
+---
+
+## 标准技术指标页（按监管目录分类）
+
+| 标准页 | 监管类别 | 标准数 | 指标数 |
+|:------|:--------:|:-----:|:-----:|
+| [[wiki/standards/农业生产资料类标准技术指标]] | 农业生产资料 | 12 | 80 |
+| [[wiki/standards/工业生产资料类标准技术指标]] | 工业生产资料 | 9 | 40 |
+| [[wiki/standards/交通用具及相关产品类标准技术指标]] | 交通用具及相关产品 | 3 | 8 |
+
+---
+
+## 综合报告
+
+| 报告 | 说明 |
+|:----|:-----|
+| [[wiki/syntheses/2026-06-20-national-standards-comprehensive-report]] | 81份国家标准综合报告 |
+| [[wiki/syntheses/2026-06-20-technical-indicators-knowledge-graph]] | 技术指标知识图谱综合报告 |
+
+---
+
+## 文件统计
+
+| 类别 | 数量 |
+|:----|:----:|
+| 概念页 | 20（13个监管目录分类 + 7个原有概念） |
+| 实体页 | 3 |
+| 标准页 | 3（按监管目录分类） |
+| 资料源 | 2 |
+| 综合报告 | 2 |
+| 索引页 | 3（index + VAULT-INDEX + log） |
+| **总计** | **33个Wiki页面** |

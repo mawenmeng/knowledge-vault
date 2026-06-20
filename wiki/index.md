@@ -1,36 +1,93 @@
-# Wiki Index — 知识库目录
+---
+title: 知识图谱索引
+type: index
+updated: 2026-06-20
+---
 
-> 本文件由 LLM 自动维护。每次摄入/综合/整理后更新。
-> 按类别组织，每个页面附带一行摘要。
+# 🌐 知识图谱索引
 
-## 📚 Sources (资料摘要)
+> 基于 Karpathy LLM Wiki 方法论构建的个人知识图谱
 
-- [[wiki/sources/2026-06-20-national-standards-collection]] — 81 份国家标准 PDF 资料集索引（OCR 提取）
+## 📋 快速导航
 
-## 🧠 Concepts (概念)
+| 区域 | 说明 |
+|------|------|
+| [[VAULT-INDEX]] | 完整仓库索引 |
+| [[wiki/log]] | 变更日志 |
+| [[wiki/hot]] | 热点/待办 |
 
-- [[wiki/concepts/national-standards-gb]] — 国家标准（GB/GB/T）体系概述
-- [[wiki/concepts/液化石油气（LPG）]] — LPG 相关标准链（钢瓶→瓶阀→调压器→加气机）
-- [[wiki/concepts/液化天然气（LNG）]] — LNG 车用气瓶及加注装置标准
-- [[wiki/concepts/聚乙烯（PE）管材]] — PE 管材在给水/燃气/灌溉/核电领域的标准
-- [[wiki/concepts/肥料]] — 氮磷钾肥及复合肥的 16 份标准
-- [[wiki/concepts/水泥]] — 6 份水泥标准（通用硅酸盐/砌筑/抗硫酸盐等）
-- [[wiki/concepts/电线电缆试验方法]] — GB/T 3048 系列电性能试验方法
+---
 
-## 👤 Entities (实体)
+## 📂 资料源
 
-- [[wiki/entities/SAC-TC105]] — 全国肥料和土壤调理剂标准化技术委员会
-- [[wiki/entities/SAC-TC213]] — 全国电线电缆标准化技术委员会
-- [[wiki/entities/CPCIF]] — 中国石油和化学工业联合会
+| 资料 | 类型 | 说明 |
+|------|------|------|
+| [[wiki/sources/2026-06-20-national-standards-collection]] | PDF资料集 | 81份国家标准PDF扫描件 |
+| [[wiki/sources/2026-06-20-national-quality-supervision-catalog]] | 监管目录 | 全国重点工业产品质量安全监管目录（2026年版） |
 
-## 📊 Standards (标准技术指标)
+---
 
-- [[wiki/standards/肥料类标准技术指标]] — 12 份肥料标准的技术指标（尿素、复合肥、硝酸铵等）
-- [[wiki/standards/燃气与能源类标准技术指标]] — 6 份燃气能源标准的技术指标（LPG、LNG、甲醇燃料等）
-- [[wiki/standards/水泥类标准技术指标]] — 2 份水泥标准的技术指标（通用硅酸盐、抗硫酸盐）
-- [[wiki/standards/化工原料类标准技术指标]] — 4 份化工原料标准的技术指标（盐酸、液氯、次氯酸钠、甲醇）
+## 📊 监管目录分类体系（2026年版）
 
-## 📝 Syntheses (综合报告)
+> 依据《全国重点工业产品质量安全监管目录（2026年版）》分类
 
-- [[wiki/syntheses/2026-06-20-national-standards-comprehensive-report]] — 81 份国家标准综合分析报告
-- [[wiki/syntheses/2026-06-20-technical-indicators-knowledge-graph]] — 技术指标知识图谱（标准→指标→值→引用关系）
+| 类别 | 产品数 | 高等级 | 标准覆盖 |
+|:----|:-----:|:-----:|:--------|
+| [[wiki/concepts/家用电器及电器附件]] | 65 | 7 | — |
+| [[wiki/concepts/家具及建筑装饰装修材料]] | 47 | 4 | PE管材 |
+| [[wiki/concepts/电子及信息技术产品]] | 18 | 0 | — |
+| [[wiki/concepts/交通用具及相关产品]] | 29 | 6 | LPG/LNG/甲醇燃料 |
+| [[wiki/concepts/儿童用品]] | 27 | 10 | — |
+| [[wiki/concepts/食品相关产品]] | 18 | 5 | — |
+| [[wiki/concepts/服装鞋帽及家用纺织品]] | 9 | 2 | — |
+| [[wiki/concepts/燃气器具及配件产品]] | 10 | 2 | LPG |
+| [[wiki/concepts/老年人用品]] | 6 | 1 | — |
+| [[wiki/concepts/日用杂品]] | 25 | 2 | — |
+| [[wiki/concepts/文教体育用品]] | 6 | 1 | — |
+| [[wiki/concepts/工业生产资料]] | 50 | 16 | 水泥/LPG/LNG/PE管材/电线电缆/化工原料 |
+| [[wiki/concepts/农业生产资料]] | 19 | 11 | 肥料 |
+
+---
+
+## 📐 标准技术指标
+
+| 标准页面 | 所属监管类别 | 标准数 | 指标数 |
+|:---------|:-----------:|:-----:|:-----:|
+| [[wiki/standards/农业生产资料类标准技术指标]] | 农业生产资料 | 12 | 80 |
+| [[wiki/standards/工业生产资料类标准技术指标]] | 工业生产资料 | 9 | 40 |
+| [[wiki/standards/交通用具及相关产品类标准技术指标]] | 交通用具及相关产品 | 3 | 8 |
+
+---
+
+## 🧠 概念
+
+| 概念 | 类型 | 说明 |
+|:----|:----:|:-----|
+| [[wiki/concepts/national-standards-gb]] | 概念 | 国家标准体系（GB/GB/T） |
+| [[wiki/concepts/肥料]] | 概念 | 肥料分类与标准体系 |
+| [[wiki/concepts/水泥]] | 概念 | 水泥分类与标准体系 |
+| [[wiki/concepts/聚乙烯（PE）管材]] | 概念 | PE管材标准体系 |
+| [[wiki/concepts/液化天然气（LNG）]] | 概念 | LNG标准体系 |
+| [[wiki/concepts/液化石油气（LPG）]] | 概念 | LPG标准体系 |
+| [[wiki/concepts/电线电缆试验方法]] | 概念 | 电线电缆试验方法体系 |
+
+## 🏛️ 实体
+
+| 实体 | 类型 | 说明 |
+|:----|:----:|:-----|
+| [[wiki/entities/SAC-TC105]] | 实体 | 全国肥料和土壤调理剂标准化技术委员会 |
+| [[wiki/entities/SAC-TC213]] | 实体 | 全国液化天然气标准化技术委员会 |
+| [[wiki/entities/CPCIF]] | 实体 | 中国石油和化学工业联合会 |
+
+---
+
+## 📝 综合报告
+
+| 报告 | 说明 |
+|:----|:-----|
+| [[wiki/syntheses/2026-06-20-national-standards-comprehensive-report]] | 81份国家标准综合报告 |
+| [[wiki/syntheses/2026-06-20-technical-indicators-knowledge-graph]] | 技术指标知识图谱综合报告 |
+
+---
+
+> 🏷️ 标签：`#国家标准` `#技术指标` `#知识图谱` `#监管目录2026`

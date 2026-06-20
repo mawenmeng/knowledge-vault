@@ -34,6 +34,13 @@ sources: [[wiki/sources/2026-06-20-national-standards-collection]]
 
 钢瓶（GB 5842）→ 瓶阀（GB 7512）→ 调压器（GB 35844）→ 加气口（GB/T 18364）→ 加气机（GB/T 38429）
 
+## 相关标准
+- [[wiki/standards/工业生产资料类标准技术指标|工业生产资料类标准技术指标（含LPG）]]
+- [[wiki/standards/交通用具及相关产品类标准技术指标|交通用具及相关产品类标准技术指标]]
+
 ## 相关概念
 - [[wiki/concepts/液化天然气（LNG）]]
 - [[wiki/concepts/national-standards-gb]]
+- [[wiki/concepts/工业生产资料]]（监管目录分类）
+- [[wiki/concepts/燃气器具及配件产品]]（监管目录分类）
+- [[wiki/sources/2026-06-20-national-quality-supervision-catalog]]

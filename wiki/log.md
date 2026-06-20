@@ -19,3 +19,12 @@
 - 创建概念页：国家标准体系、LPG、LNG、PE管材、肥料、水泥、电线电缆试验方法
 - 更新 wiki/index.md 目录
 - 类别覆盖：燃气与能源(25)、肥料(16)、电线电缆(12)、塑料与薄膜(10)、化工原料(7)、水泥(6)、节能环保(2)、其他(3)
+
+## [2026-06-20 12:16] Ingest | OCR 重新提取 — 81 份标准完整内容
+
+- 使用 Tesseract OCR（chi_sim+eng）对全部 81 份 PDF 进行文字提取
+- 成功提取标准号、中文名称、发布/实施日期等关键信息
+- 创建综合报告：wiki/syntheses/2026-06-20-national-standards-comprehensive-report
+- 创建实体页：SAC/TC 105、SAC/TC 213、中国石油和化学工业联合会
+- 更新 wiki/index.md 目录
+- 更新 VAULT-INDEX.md

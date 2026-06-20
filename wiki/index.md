@@ -5,7 +5,7 @@
 
 ## 📚 Sources (资料摘要)
 
-- [[wiki/sources/2026-06-20-national-standards-collection]] — 81 份国家标准 PDF 资料集索引
+- [[wiki/sources/2026-06-20-national-standards-collection]] — 81 份国家标准 PDF 资料集索引（OCR 提取）
 
 ## 🧠 Concepts (概念)
 
@@ -19,7 +19,9 @@
 
 ## 👤 Entities (实体)
 
-*暂无*
+- [[wiki/entities/SAC-TC105]] — 全国肥料和土壤调理剂标准化技术委员会
+- [[wiki/entities/SAC-TC213]] — 全国电线电缆标准化技术委员会
+- [[wiki/entities/CPCIF]] — 中国石油和化学工业联合会
 
 ## ⚖️ Comparisons (对比分析)
 
@@ -27,4 +29,4 @@
 
 ## 📝 Syntheses (综合报告)
 
-*暂无*
+- [[wiki/syntheses/2026-06-20-national-standards-comprehensive-report]] — 81 份国家标准综合分析报告

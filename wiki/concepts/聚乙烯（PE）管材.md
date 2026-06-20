@@ -3,8 +3,12 @@ title: 聚乙烯（PE）管材
 type: concept
 created: 2026-06-20
 updated: 2026-06-20
-tags: [PE管材, 聚乙烯, 塑料管道]
-sources: [[wiki/sources/2026-06-20-national-standards-collection]]
+tags:
+  - PE管材
+  - 聚乙烯
+  - 塑料管道
+sources:
+  - - wiki/sources/2026-06-20-national-standards-collection
 ---
 
 # 聚乙烯（PE）管材

@@ -23,39 +23,12 @@
 - [[wiki/entities/SAC-TC213]] — 全国电线电缆标准化技术委员会
 - [[wiki/entities/CPCIF]] — 中国石油和化学工业联合会
 
-## 📊 Standards (标准页面)
+## 📊 Standards (标准技术指标)
 
-### 肥料类
-- [[wiki/standards/GBT-2440-2017|GB/T 2440-2017 尿素]]
-- [[wiki/standards/GBT-15063-2020|GB/T 15063-2020 复合肥料]]
-- [[wiki/standards/GBT-2945-2017|GB/T 2945-2017 硝酸铵]]
-- [[wiki/standards/GBT-535-2020|GB/T 535-2020 肥料级硫酸铵]]
-- [[wiki/standards/GBT-20406-2017|GB/T 20406-2017 农业用硫酸钾]]
-- [[wiki/standards/GBT-20412-2021|GB/T 20412-2021 钙镁磷肥]]
-- [[wiki/standards/GB-10205-2009|GB 10205-2009 磷酸一铵、磷酸二铵]]
-- [[wiki/standards/GBT-20784-2018|GB/T 20784-2018 农业用硝酸钾]]
-- [[wiki/standards/GBT-37918-2019|GB/T 37918-2019 肥料级氯化钾]]
-- [[wiki/standards/GBT-2946-2018|GB/T 2946-2018 氯化铵]]
-- [[wiki/standards/GB-3559-2001|GB 3559-2001 农业用碳酸氢铵]]
-- [[wiki/standards/GBT-10510-2023|GB/T 10510-2023 硝酸磷肥、硝酸磷钾肥]]
-
-### 燃气与能源类
-- [[wiki/standards/GB-11174-2025|GB 11174-2025 液化石油气]]
-- [[wiki/standards/GB-5842-2023|GB 5842-2023 液化石油气钢瓶]]
-- [[wiki/standards/GBT-34510-2017|GB/T 34510-2017 汽车用液化天然气气瓶]]
-- [[wiki/standards/GBT-23799-2021|GB/T 23799-2021 车用甲醇汽油(M85)]]
-- [[wiki/standards/GBT-33445-2023|GB/T 33445-2023 煤制合成天然气]]
-- [[wiki/standards/GBT-42416-2023|GB/T 42416-2023 M100车用甲醇燃料]]
-
-### 水泥类
-- [[wiki/standards/GB-175-2023|GB 175-2023 通用硅酸盐水泥]]
-- [[wiki/standards/GBT-748-2023|GB/T 748-2023 抗硫酸盐硅酸盐水泥]]
-
-### 化工原料类
-- [[wiki/standards/GBT-320-2025|GB/T 320-2025 工业用合成盐酸]]
-- [[wiki/standards/GBT-5138-2021|GB/T 5138-2021 工业用液氯]]
-- [[wiki/standards/GB-19106-2013|GB 19106-2013 次氯酸钠]]
-- [[wiki/standards/GBT-338-2025|GB/T 338-2025 工业用甲醇]]
+- [[wiki/standards/肥料类标准技术指标]] — 12 份肥料标准的技术指标（尿素、复合肥、硝酸铵等）
+- [[wiki/standards/燃气与能源类标准技术指标]] — 6 份燃气能源标准的技术指标（LPG、LNG、甲醇燃料等）
+- [[wiki/standards/水泥类标准技术指标]] — 2 份水泥标准的技术指标（通用硅酸盐、抗硫酸盐）
+- [[wiki/standards/化工原料类标准技术指标]] — 4 份化工原料标准的技术指标（盐酸、液氯、次氯酸钠、甲醇）
 
 ## 📝 Syntheses (综合报告)
 

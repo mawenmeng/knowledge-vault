@@ -1,0 +1,8 @@
+# Git 忽略文件
+# 忽略操作系统文件
+Thumbs.db
+.DS_Store
+
+# 忽略 Obsidian 工作区缓存
+.obsidian/workspace.json
+.obsidian/workspace

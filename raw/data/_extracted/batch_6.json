@@ -1,0 +1,1880 @@
+[
+  {
+    "file": "10205-2009-gb-e-300磷酸一铵、磷酸二铵.pdf",
+    "std_no": "GB10205",
+    "cn_name": "磷酸一铰.磷酸二铰",
+    "pub_date": "2009-11-30发布",
+    "impl_date": "2010-06-01实施",
+    "indicators": [
+      {
+        "indicator": "19HERESPO",
+        "condition": "=",
+        "value": "2.5253.022.53.",
+        "unit": "0"
+      },
+      {
+        "indicator": "IRON)BYERESB6",
+        "condition": "=",
+        "value": "8.07.010.010.09.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6430
+  },
+  {
+    "file": "19106-2013-gb-e-300次氯酸钠.pdf",
+    "std_no": "GB19106",
+    "cn_name": "heALIERIEARHREPENS妙市",
+    "pub_date": "2013-11-27发布",
+    "impl_date": "2014-12-01实施",
+    "indicators": [
+      {
+        "indicator": "mol)CM",
+        "condition": "=",
+        "value": "40.0",
+        "unit": "0"
+      },
+      {
+        "indicator": "OH",
+        "condition": "=",
+        "value": "4",
+        "unit": "Fe"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6680",
+      "GB/T601",
+      "GB/T603",
+      "GB19106",
+      "GB19107",
+      "GB/T6678",
+      "GB/T191",
+      "GB190",
+      "GB/T6682",
+      "GB/T602"
+    ],
+    "ocr_len": 6940
+  },
+  {
+    "file": "20561-2006-gb-e-300GB_T 20561-2006  机动车用液化石油气钢瓶定期检验与评定.pdf",
+    "std_no": "GB20561",
+    "cn_name": "机动车用液化石油气钢瓶定期检验与评定",
+    "pub_date": "2006-09-12发布",
+    "impl_date": "2007-04-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 6908
+  },
+  {
+    "file": "20782-2006-gbt-e-300农业用含磷型防爆硝酸铵.pdf",
+    "std_no": "GB/T20782",
+    "cn_name": "农业用含磷型防爆硝酸铰",
+    "pub_date": "2006-12-29发布",
+    "impl_date": "2007-06-01实施",
+    "indicators": [
+      {
+        "indicator": "E",
+        "condition": ">",
+        "value": "35.035.",
+        "unit": "0"
+      },
+      {
+        "indicator": "n",
+        "condition": "=",
+        "value": "3",
+        "unit": "xJN"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6373
+  },
+  {
+    "file": "2367-2016-gbt-cd-300工业亚硝酸钠.pdf",
+    "std_no": "GB/T2367",
+    "cn_name": "工业亚硝酸钠",
+    "pub_date": "2016-12-13发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "CELEREP)e关",
+        "condition": ">",
+        "value": "99.098.",
+        "unit": "5"
+      },
+      {
+        "indicator": "0",
+        "condition": "<",
+        "value": "0.81",
+        "unit": "3"
+      },
+      {
+        "indicator": "林澈犀平坂u张",
+        "condition": "<",
+        "value": "0.050.060.1",
+        "unit": "0"
+      },
+      {
+        "indicator": "6",
+        "condition": "=",
+        "value": "8",
+        "unit": "5"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T3051",
+      "GB12268",
+      "HG/T3696",
+      "GB/T6678",
+      "GB/T191",
+      "GB190",
+      "GB/T6682",
+      "GB/T2367"
+    ],
+    "ocr_len": 6874
+  },
+  {
+    "file": "25986-2010-gbt-e-300汽车用液化天然气加注装置.pdf",
+    "std_no": "GB/T25986",
+    "cn_name": "汽车用液化天然气加注装置",
+    "pub_date": "",
+    "impl_date": "2011-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T9969",
+      "GB/T4240",
+      "GB/T1220",
+      "GB/T19204",
+      "GB/T4423",
+      "GB/T25986",
+      "GB/T3864",
+      "GB/T20734",
+      "GB/T10125",
+      "HG2167"
+    ],
+    "ocr_len": 7394
+  },
+  {
+    "file": "28962-2012-gbt-e-300GB_T 28962-2012  液化石油气汽车定型试验规程.pdf",
+    "std_no": "GB/T28962",
+    "cn_name": "液化石油气汽车定型试验规程",
+    "pub_date": "2012-12-31发布",
+    "impl_date": "2013-07-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB19159",
+      "GB/T12548",
+      "GB/T12677",
+      "GB/T632",
+      "GB/T12673",
+      "GB/T6323",
+      "GB/T17895",
+      "GB7258",
+      "GB/T28962",
+      "GB/T12543",
+      "GB/T12534",
+      "GB/T18697",
+      "GB/T12678",
+      "GB/T19239",
+      "GB/T3730",
+      "GB/T12544",
+      "GB/T150892001",
+      "GB/T12535",
+      "GB/T63",
+      "GB/T12536",
+      "GB/T12539",
+      "GB/T12545",
+      "GB/T12547",
+      "GB/T12674",
+      "GB/T37301",
+      "GB/T12540"
+    ],
+    "ocr_len": 5480
+  },
+  {
+    "file": "3048.9-2007-gbt-e-300电线电缆电性能试验方法　第9部分：绝缘线芯火花试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GBT3048",
+      "GB/T3048",
+      "GB/T2900",
+      "GB/T304815",
+      "GB3048"
+    ],
+    "ocr_len": 6061
+  },
+  {
+    "file": "32463-2015-gbt-cd-300.pdf",
+    "std_no": "GB/T32463",
+    "cn_name": "聚丙烯(PP-R、PP-B、PP-H)",
+    "pub_date": "",
+    "impl_date": "",
+    "indicators": [
+      {
+        "indicator": "PP-BACDE",
+        "condition": ">",
+        "value": "16",
+        "unit": "0"
+      },
+      {
+        "indicator": "h于收于收",
+        "condition": ">",
+        "value": "16",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T32463",
+      "GB/T19466",
+      "GB/T6040"
+    ],
+    "ocr_len": 5119
+  },
+  {
+    "file": "32492-2016-gbt-cd-300液化石油气中二甲醚含量气相色谱分析法.pdf",
+    "std_no": "GB/T32492",
+    "cn_name": "液化石油气中二甲醚含量",
+    "pub_date": "2016-02-24发布",
+    "impl_date": "2017-01-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T4946",
+      "GB/T32492",
+      "GB/T5274"
+    ],
+    "ocr_len": 3884
+  },
+  {
+    "file": "32964-2016-gbt-cd-300液化天然气用不锈钢焊接钢管.pdf",
+    "std_no": "GB/T32964",
+    "cn_name": "液化天然气用不锈钢焊接钢管",
+    "pub_date": "2016-08-29发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "2",
+        "condition": "=",
+        "value": "21",
+        "unit": "0"
+      },
+      {
+        "indicator": "2",
+        "condition": "=",
+        "value": "21",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T21835",
+      "GB/T222",
+      "GB/T32964",
+      "GB/T223"
+    ],
+    "ocr_len": 6076
+  },
+  {
+    "file": "3559-2001-gb-e-300农业用碳酸氢铵.pdf",
+    "std_no": "GB3559",
+    "cn_name": "农业用碳酸氧铰",
+    "pub_date": "",
+    "impl_date": "",
+    "indicators": [
+      {
+        "indicator": "OND",
+        "condition": ">",
+        "value": "17.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "KO)",
+        "condition": "<",
+        "value": "3.0355.00.",
+        "unit": "5"
+      },
+      {
+        "indicator": ")",
+        "condition": "=",
+        "value": "1",
+        "unit": "mol/L"
+      },
+      {
+        "indicator": "AbikHEMH5HFK(NaOH)",
+        "condition": "=",
+        "value": "1",
+        "unit": "mol/L"
+      },
+      {
+        "indicator": "c(NaOH)",
+        "condition": "=",
+        "value": "1.000",
+        "unit": "mol/L"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6534
+  },
+  {
+    "file": "4553-2016-gbt-cd-300工业硝酸钠.pdf",
+    "std_no": "GB/T4553",
+    "cn_name": "工业硝酸钠",
+    "pub_date": "2016-12-13发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "公",
+        "condition": "=",
+        "value": "9",
+        "unit": "0"
+      },
+      {
+        "indicator": "wi",
+        "condition": "=",
+        "value": "100",
+        "unit": "%"
+      }
+    ],
+    "referenced_standards": [
+      "GB190-2009",
+      "GB/T3051--2000",
+      "GB/T3051-2000",
+      "GB/T3600",
+      "GB12268",
+      "GB12463",
+      "HG/T3696",
+      "GB/T12684",
+      "GB/T4553",
+      "GB/T6678",
+      "GB/T191",
+      "GB/T3049",
+      "GB/T6682"
+    ],
+    "ocr_len": 6205
+  },
+  {
+    "file": "GB+11174-2025液化石油气.pdf",
+    "std_no": "GB11174",
+    "cn_name": "液_化_石",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-11-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB18180",
+      "GB/30517",
+      "GB/T12576",
+      "GB50028",
+      "GB11174",
+      "GB/T5274",
+      "GB/T80172012",
+      "GB30000",
+      "GB190",
+      "GB/T30518"
+    ],
+    "ocr_len": 6706
+  },
+  {
+    "file": "GB+13735-2017聚乙烯吹塑农用地面覆盖薄膜 (1).pdf",
+    "std_no": "GB\n1",
+    "cn_name": "聚乙烯吹塑农用地面覆盖薄膜",
+    "pub_date": "",
+    "impl_date": "2018-05-01实施",
+    "indicators": [
+      {
+        "indicator": "025",
+        "condition": "=",
+        "value": "18",
+        "unit": "0"
+      },
+      {
+        "indicator": "030",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "dy",
+        "condition": "<",
+        "value": "0.01",
+        "unit": "5"
+      },
+      {
+        "indicator": "015nmlaolsd",
+        "condition": "<",
+        "value": "0.020",
+        "unit": "mm"
+      },
+      {
+        "indicator": "2260",
+        "condition": "=",
+        "value": "30",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6672",
+      "GB/T6673",
+      "GB/T1040",
+      "GB/T2918",
+      "GB13735",
+      "GB/T2828",
+      "GB/T16422"
+    ],
+    "ocr_len": 5286
+  },
+  {
+    "file": "GB+13735-2017聚乙烯吹塑农用地面覆盖薄膜.pdf",
+    "std_no": "GB\n1",
+    "cn_name": "聚乙烯吹塑农用地面覆盖薄膜",
+    "pub_date": "",
+    "impl_date": "2018-05-01实施",
+    "indicators": [
+      {
+        "indicator": "025",
+        "condition": "=",
+        "value": "18",
+        "unit": "0"
+      },
+      {
+        "indicator": "030",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "dy",
+        "condition": "<",
+        "value": "0.01",
+        "unit": "5"
+      },
+      {
+        "indicator": "015nmlaolsd",
+        "condition": "<",
+        "value": "0.020",
+        "unit": "mm"
+      },
+      {
+        "indicator": "2260",
+        "condition": "=",
+        "value": "30",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6672",
+      "GB/T6673",
+      "GB/T1040",
+      "GB/T2918",
+      "GB13735",
+      "GB/T2828",
+      "GB/T16422"
+    ],
+    "ocr_len": 5286
+  },
+  {
+    "file": "GB+175-2023通用硅酸盐水泥.pdf",
+    "std_no": "GB175",
+    "cn_name": "代唯G8175—2007",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2024-06-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T26748",
+      "GB/T5483",
+      "GB175",
+      "GB/T176",
+      "GB31893",
+      "GB/T35164",
+      "GB/T12573",
+      "GB/T21371",
+      "GB/T97747",
+      "GB/T12960",
+      "GB/T8074",
+      "GB/T17671",
+      "GB6566"
+    ],
+    "ocr_len": 4301
+  },
+  {
+    "file": "GB+19107-2003次氯酸钠溶液包装要求.pdf",
+    "std_no": "GB19107",
+    "cn_name": "7rms嘎菖",
+    "pub_date": "2003-05-16发布",
+    "impl_date": "2003-06-15实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 6995
+  },
+  {
+    "file": "GB+32375-2025电石生产安全技术规范.pdf",
+    "std_no": "GB32375",
+    "cn_name": "电石生产安全技术规范",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-09-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2055
+  },
+  {
+    "file": "GB+35844-2018GB 35844-2018  瓶装液化石油气调压器.pdf",
+    "std_no": "GB35844",
+    "cn_name": "装液化石油气调压器",
+    "pub_date": "2018-02-06发布",
+    "impl_date": "2019-03-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T15115",
+      "GB/T197",
+      "GB/T196",
+      "GB35844",
+      "GB/T1690"
+    ],
+    "ocr_len": 4363
+  },
+  {
+    "file": "GB+5842-2023GB 5842-2023  液化石油气钢瓶.pdf",
+    "std_no": "GB5842",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2336
+  },
+  {
+    "file": "GB+7512-2023液化石油气瓶阀.pdf",
+    "std_no": "GB7512",
+    "cn_name": "液化石油气瓶阙",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2008
+  },
+  {
+    "file": "GBT+10510-2023硝酸磷肥、硝酸磷钾肥.pdf",
+    "std_no": "GB/T10510",
+    "cn_name": "硝酸磷肥、硝酸磷钾肥",
+    "pub_date": "2023-08-06发布",
+    "impl_date": "2024-03-01实施",
+    "indicators": [
+      {
+        "indicator": "T10510—2007CHIRRBENEHHARHEAUIE",
+        "condition": ">",
+        "value": ".57",
+        "unit": "GB/T10510"
+      },
+      {
+        "indicator": "REHieHO)关",
+        "condition": "<",
+        "value": "1",
+        "unit": "5"
+      },
+      {
+        "indicator": "E",
+        "condition": "<",
+        "value": "0.",
+        "unit": "5"
+      },
+      {
+        "indicator": "mer3",
+        "condition": "<",
+        "value": "15.",
+        "unit": "0"
+      },
+      {
+        "indicator": "eetaee",
+        "condition": "<",
+        "value": "20.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T15063",
+      "GB/T10511",
+      "GB18382",
+      "GB/T10512",
+      "GB/T10514",
+      "GB/T8572",
+      "GB/T3597",
+      "GB/T8170",
+      "GB/T6679",
+      "GB/T10513",
+      "GB/T22923",
+      "GB38400",
+      "GB/T10510",
+      "GB/T22008",
+      "GB/T8574",
+      "GB/T24890",
+      "GB/T10515",
+      "GB/T6274"
+    ],
+    "ocr_len": 5337
+  },
+  {
+    "file": "GBT+13591-2025乙炔气瓶充装规定.pdf",
+    "std_no": "GB/T13591",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2025-08-29发布",
+    "impl_date": "2026-03-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 1510
+  },
+  {
+    "file": "GBT+15063-2020复合肥料.pdf",
+    "std_no": "GB/T15063",
+    "cn_name": "复合肥_料",
+    "pub_date": "2020-11-19发布",
+    "impl_date": "2021-06-01实施",
+    "indicators": [
+      {
+        "indicator": "TEEPEAATTAYFESRY26",
+        "condition": ">",
+        "value": "6050",
+        "unit": "0"
+      },
+      {
+        "indicator": "LLAIEEE)",
+        "condition": ">",
+        "value": "0.0",
+        "unit": "2"
+      },
+      {
+        "indicator": "RUHRHf—IAAEATy",
+        "condition": ">",
+        "value": "1.0.9",
+        "unit": "6"
+      },
+      {
+        "indicator": "BREFNWARAPBKT",
+        "condition": ">",
+        "value": "30.09617",
+        "unit": "%"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T15063",
+      "GB18382",
+      "HG/T2843",
+      "GB/T3597",
+      "GB/T6679",
+      "GB/T19203",
+      "GB/T6274",
+      "GB/T8576",
+      "GB/T8574",
+      "NY/T1116",
+      "GB/T34784",
+      "GB/T22923",
+      "GB/T8572",
+      "NY/T2540",
+      "GB/T14540",
+      "GB/T24890",
+      "GB/T24891",
+      "NY/T1977",
+      "GB38400",
+      "GB/T8571",
+      "GB/T8573"
+    ],
+    "ocr_len": 6507
+  },
+  {
+    "file": "GBT+17259-2024机动车用液化石油气钢瓶.pdf",
+    "std_no": "GB/T17259",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2024-04-25发布",
+    "impl_date": "2024-11-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2759
+  },
+  {
+    "file": "GBT+18006.3-2020一次性可降解餐饮具通用技术要求.pdf",
+    "std_no": "GB/T18006",
+    "cn_name": "伟余o8006372080",
+    "pub_date": "2020-11-09发布",
+    "impl_date": "2020-12-31实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T37837",
+      "GB/T18006",
+      "GB/T19276",
+      "GB/T19811",
+      "GB/T22047",
+      "GB/T28206",
+      "GB/T180063",
+      "GB/T462",
+      "GB/T32106",
+      "GB/T2828",
+      "GB/T33797",
+      "GB/T1927",
+      "GB/T9345",
+      "GB/T192"
+    ],
+    "ocr_len": 7839
+  },
+  {
+    "file": "GBT+18364-2017汽车用液化石油气加气口.pdf",
+    "std_no": "GB\n1",
+    "cn_name": "汽车用液化石油气加气口",
+    "pub_date": "2017-10-14发布",
+    "impl_date": "2018-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T18",
+      "GB/T18364",
+      "GB/T10587",
+      "GB/T9969",
+      "GB19239",
+      "GB/T3764",
+      "GB/T1",
+      "GB/T528",
+      "GB19159",
+      "GB/T17895",
+      "GB/T10125"
+    ],
+    "ocr_len": 5237
+  },
+  {
+    "file": "GBT+18916.29-2017取水定额 第29部分：烧碱.pdf",
+    "std_no": "GB/T18916",
+    "cn_name": "取水定额“第29部分:烧碱",
+    "pub_date": "2017-05-12发布",
+    "impl_date": "2017-12-01实施",
+    "indicators": [
+      {
+        "indicator": "26BSFEH",
+        "condition": "<",
+        "value": "8.",
+        "unit": "0"
+      },
+      {
+        "indicator": "26BFHe",
+        "condition": "<",
+        "value": "5.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T21534",
+      "GB/T1",
+      "GB/T200",
+      "GB/T18820",
+      "GB/T12452",
+      "GB24789",
+      "GB/T209",
+      "GB/T18916"
+    ],
+    "ocr_len": 3469
+  },
+  {
+    "file": "GBT+18916.35-2018取水定额 第35部分：煤制甲醇.pdf",
+    "std_no": "GB/T18916",
+    "cn_name": "取水定额第35部分:煤制甲醇",
+    "pub_date": "",
+    "impl_date": "2018-12-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T21534",
+      "GB/T1",
+      "GB/T18820",
+      "GB/T12452",
+      "GB24789",
+      "GB/T18916"
+    ],
+    "ocr_len": 4648
+  },
+  {
+    "file": "GBT+18916.39-2019取水定额 第39部分_煤制合成天然气.pdf",
+    "std_no": "GB/T18916",
+    "cn_name": "取水定额“第39部分:",
+    "pub_date": "2019-06-04发布",
+    "impl_date": "2019-10-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T21534",
+      "GB/T31428",
+      "GB/T1",
+      "GB/T18820",
+      "GB/T12452",
+      "GB24789",
+      "GB/T18916"
+    ],
+    "ocr_len": 4909
+  },
+  {
+    "file": "GBT+19203-2026复合肥料中钙、镁、硫含量的测定.pdf",
+    "std_no": "GB/T19203",
+    "cn_name": "CCSG20朐",
+    "pub_date": "2026-02-27发布",
+    "impl_date": "2026-09-01实施",
+    "indicators": [
+      {
+        "indicator": "o(CA)",
+        "condition": "=",
+        "value": "20",
+        "unit": "g/L"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T15063",
+      "GB/T8571",
+      "GB/T6682",
+      "GB/1",
+      "GB/T19203",
+      "GB/T6274"
+    ],
+    "ocr_len": 5198
+  },
+  {
+    "file": "GBT+20406-2017农业用硫酸钾.pdf",
+    "std_no": "GB\n1",
+    "cn_name": "(;l薯/1舶406_20l7",
+    "pub_date": "2017-12-29发布",
+    "impl_date": "2018-07-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB18382",
+      "HG/T2843",
+      "GB/T8170",
+      "GB/T8569",
+      "GB/T6679",
+      "GB/T20406",
+      "GB/T6003",
+      "HG/T2848"
+    ],
+    "ocr_len": 6894
+  },
+  {
+    "file": "GBT+20412-2021钙镁磷肥.pdf",
+    "std_no": "GB/T20412",
+    "cn_name": "钙“镁_磷_肥",
+    "pub_date": "2021-10-11发布",
+    "impl_date": "2022-05-01实施",
+    "indicators": [
+      {
+        "indicator": "27E000",
+        "condition": ">",
+        "value": "17.014.011.",
+        "unit": "0"
+      },
+      {
+        "indicator": "HCE(Cad关",
+        "condition": ">",
+        "value": "19.",
+        "unit": "5"
+      },
+      {
+        "indicator": "0",
+        "condition": ">",
+        "value": "19.",
+        "unit": "0"
+      },
+      {
+        "indicator": "BORELOHRBEN",
+        "condition": ">",
+        "value": "1",
+        "unit": "5"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T22023",
+      "GB8382",
+      "GB38400",
+      "HG/T2843",
+      "GB/T8170",
+      "GB/T8569",
+      "GB/T6679",
+      "GB/T6003",
+      "GB/T5679",
+      "GB/T6682",
+      "GB/T24891",
+      "GB/T20412"
+    ],
+    "ocr_len": 5932
+  },
+  {
+    "file": "GBT+20784-2018农业用硝酸钾.pdf",
+    "std_no": "GB/T20784",
+    "cn_name": "农业用硝酸钾",
+    "pub_date": "2018-05-14发布",
+    "impl_date": "2018-12-01实施",
+    "indicators": [
+      {
+        "indicator": "0的颂尻政",
+        "condition": ">",
+        "value": "46.0",
+        "unit": "M544"
+      },
+      {
+        "indicator": "RLONDEP26",
+        "condition": ">",
+        "value": "13.513.513.",
+        "unit": "0"
+      },
+      {
+        "indicator": "SASFCCHieSB4",
+        "condition": "<",
+        "value": "0.2121",
+        "unit": "5"
+      },
+      {
+        "indicator": "Ye",
+        "condition": "<",
+        "value": "0.5101",
+        "unit": "5"
+      },
+      {
+        "indicator": "札澈牵的阮分政关",
+        "condition": "<",
+        "value": "0.100.20",
+        "unit": "0"
+      },
+      {
+        "indicator": "L00mm-t75mm",
+        "condition": ">",
+        "value": "9",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB18382",
+      "GB/T22923",
+      "GB/T20784",
+      "HG/T2843",
+      "GB/T2441",
+      "GB/T24890",
+      "GB/T19182011",
+      "NY/T1116",
+      "GB/T23348",
+      "GB190",
+      "GB/T6879",
+      "HG/T2848",
+      "GB/T24891"
+    ],
+    "ocr_len": 6711
+  },
+  {
+    "file": "GBT+23799-2021车用甲醇汽油（M85）.pdf",
+    "std_no": "GB/T23799",
+    "cn_name": "车用甲醇汽油(M85)",
+    "pub_date": "2021-10-11发布",
+    "impl_date": "2022-05-01实施",
+    "indicators": [
+      {
+        "indicator": "eelwn",
+        "condition": "<",
+        "value": "5",
+        "unit": "GB/T8019"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6283",
+      "GB/T4758",
+      "GB/T84100",
+      "GB/T17519",
+      "GB/T18612",
+      "GB30000",
+      "GB13690",
+      "GB12268",
+      "GB/T23799",
+      "GB19592",
+      "GB190",
+      "GB/T8020",
+      "GB/T11140",
+      "GB/T5096",
+      "GB7980",
+      "GB/T9725",
+      "GB/T17476",
+      "GB/T34100",
+      "GB17930",
+      "GB/T8019",
+      "GB/T4756",
+      "GB/T6682"
+    ],
+    "ocr_len": 8592
+  },
+  {
+    "file": "GBT+2440-2017尿素.pdf",
+    "std_no": "GB/T2440",
+    "cn_name": "中国国家标淮化算理委责会",
+    "pub_date": "2017-12-29发布",
+    "impl_date": "2018-07-01实施",
+    "indicators": [
+      {
+        "indicator": "SBCCNDfCPR",
+        "condition": ">",
+        "value": "16.",
+        "unit": "0"
+      },
+      {
+        "indicator": "AEHBe",
+        "condition": "<",
+        "value": "0.91",
+        "unit": "5"
+      },
+      {
+        "indicator": "1",
+        "condition": "=",
+        "value": "05",
+        "unit": "0"
+      },
+      {
+        "indicator": "C00UG7",
+        "condition": ">",
+        "value": "46.416.",
+        "unit": "0"
+      },
+      {
+        "indicator": "ijWRAYEH",
+        "condition": "<",
+        "value": "051",
+        "unit": "0"
+      },
+      {
+        "indicator": "0",
+        "condition": "<",
+        "value": "030",
+        "unit": "7"
+      },
+      {
+        "indicator": "MEONHARABI",
+        "condition": "=",
+        "value": "0.010.0",
+        "unit": "3"
+      },
+      {
+        "indicator": "TDAYERE",
+        "condition": "<",
+        "value": "0.00",
+        "unit": "5"
+      },
+      {
+        "indicator": "ARAEO3",
+        "condition": "<",
+        "value": "0.0050.04",
+        "unit": "0"
+      },
+      {
+        "indicator": "n",
+        "condition": "=",
+        "value": "3",
+        "unit": "xYN"
+      }
+    ],
+    "referenced_standards": [
+      "GB18382",
+      "GB/T2441",
+      "GB/T8170",
+      "GB/T8569",
+      "GB/T6679",
+      "GB/T2440",
+      "HG/T4365--2012",
+      "HG/T4365",
+      "GB/T10454"
+    ],
+    "ocr_len": 4789
+  },
+  {
+    "file": "GBT+26171-2025电线电缆专用设备检测方法.pdf",
+    "std_no": "GB/T26171",
+    "cn_name": "电线电缆专用设备检测方法",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T26171-2025",
+      "GB/T11354",
+      "GB/T13924",
+      "GB/T2900",
+      "GB/T33580",
+      "GB/T23644"
+    ],
+    "ocr_len": 4992
+  },
+  {
+    "file": "GBT+2945-2017硝酸铵.pdf",
+    "std_no": "GB/T2945",
+    "cn_name": "硝“酸“铰",
+    "pub_date": "2017-12-29发布",
+    "impl_date": "2018-07-01实施",
+    "indicators": [
+      {
+        "indicator": "公",
+        "condition": "<",
+        "value": "0.30",
+        "unit": "5"
+      },
+      {
+        "indicator": "26",
+        "condition": ">",
+        "value": "99.",
+        "unit": "5"
+      },
+      {
+        "indicator": "4",
+        "condition": "<",
+        "value": "0101",
+        "unit": "2"
+      },
+      {
+        "indicator": "7k8HpHAFL",
+        "condition": ">",
+        "value": "5.0",
+        "unit": "u"
+      },
+      {
+        "indicator": "y",
+        "condition": ">",
+        "value": "34.033.",
+        "unit": "5"
+      },
+      {
+        "indicator": "WERDKAYBLLSBE",
+        "condition": "<",
+        "value": "0.6",
+        "unit": "1"
+      },
+      {
+        "indicator": "LORIEDHffi",
+        "condition": ">",
+        "value": "5.01.",
+        "unit": "0"
+      },
+      {
+        "indicator": "DSII9CECAI",
+        "condition": ">",
+        "value": "9",
+        "unit": "CE90"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T8572--2010",
+      "GB/T3600",
+      "GB/T2947",
+      "GB/T2945",
+      "HG/T2843",
+      "GB/T8572",
+      "GB/T8170",
+      "GB/T6679",
+      "GBT191",
+      "GB/T6003",
+      "GB/12-2010",
+      "GB190",
+      "GB/T8577",
+      "GB/T6682"
+    ],
+    "ocr_len": 5589
+  },
+  {
+    "file": "GBT+2946-2018氯化铵.pdf",
+    "std_no": "GB/T2946",
+    "cn_name": "A“化“铱",
+    "pub_date": "2018-05-14发布",
+    "impl_date": "2018-12-01实施",
+    "indicators": [
+      {
+        "indicator": "aeeed",
+        "condition": ">",
+        "value": "25.424.523.",
+        "unit": "5"
+      },
+      {
+        "indicator": "u",
+        "condition": ">",
+        "value": "101",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T10208",
+      "GB18382",
+      "GB/T8572",
+      "GB/T8170",
+      "GB/T8569",
+      "GB/T23349",
+      "GB/T8577",
+      "GB/T6682",
+      "GB/T2946"
+    ],
+    "ocr_len": 4758
+  },
+  {
+    "file": "GBT+3048.11-2025电线电缆电性能试验方法 第11部分：介质损耗角正切试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13真",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 3512
+  },
+  {
+    "file": "GBT+3048.13-2025电线电缆电性能试验方法 第13部分：冲击电压试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13朐",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2426
+  },
+  {
+    "file": "GBT+3048.4-2025电线电缆电性能试验方法 第4部分：导体直流电阻试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13真",
+    "pub_date": "2025-08-29发布",
+    "impl_date": "2026-03-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2529
+  },
+  {
+    "file": "GBT+3048.8-2025 电线电缆电性能试验方法 第8部分：交流电压试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13朐",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 3586
+  },
+  {
+    "file": "GBT+3183-2025砌筑水泥.pdf",
+    "std_no": "GB/T3183",
+    "cn_name": "砌_筑水“泥",
+    "pub_date": "2025-10-31发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T176",
+      "GB/T35164",
+      "GB/T26748",
+      "GB/T2847",
+      "GB/T3183",
+      "GB/T176717",
+      "GB/T1346",
+      "GB/15",
+      "GB6566",
+      "GB/T6645",
+      "GB/T1596",
+      "GB/T12573",
+      "GB/T5483",
+      "GB/T9774",
+      "GB/T21372",
+      "GB/T21371",
+      "GB/T45002",
+      "GB/T203",
+      "GB31893"
+    ],
+    "ocr_len": 5099
+  },
+  {
+    "file": "GBT+320-2025工业用合成盐酸.pdf",
+    "std_no": "GB/T320",
+    "cn_name": "工业用合成盐酸",
+    "pub_date": "2025-02-28发布",
+    "impl_date": "2025-09-01实施",
+    "indicators": [
+      {
+        "indicator": "RCFeit)",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      },
+      {
+        "indicator": "圆页氧CLD",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      },
+      {
+        "indicator": "it)",
+        "condition": "<",
+        "value": "0.0",
+        "unit": "3"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6680",
+      "GB/T602",
+      "GB/T601",
+      "GB/T603",
+      "GB/T320",
+      "GB/T8",
+      "GB/T6678",
+      "GB/T191",
+      "GB190",
+      "GB/T6682",
+      "GB15258",
+      "GB/T502"
+    ],
+    "ocr_len": 4683
+  },
+  {
+    "file": "GBT+33445-2023煤制合成天然气.pdf",
+    "std_no": "GB/T33445",
+    "cn_name": "煤制合成天然气",
+    "pub_date": "2023-03-17发布",
+    "impl_date": "2023-07-01实施",
+    "indicators": [
+      {
+        "indicator": "广艳挺匠Mn",
+        "condition": "=",
+        "value": "34.",
+        "unit": "0"
+      },
+      {
+        "indicator": "6",
+        "condition": "<",
+        "value": "3.",
+        "unit": "0"
+      },
+      {
+        "indicator": "0",
+        "condition": "<",
+        "value": "1.",
+        "unit": "0"
+      },
+      {
+        "indicator": "4",
+        "condition": "<",
+        "value": "0.1",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB50251",
+      "GB/T33445",
+      "GB/T19158",
+      "GB12268",
+      "GB/T37124",
+      "GB/T17258",
+      "GB/T30490",
+      "GB/T28727",
+      "GB17258",
+      "GB/T11062",
+      "GB/T53318",
+      "GB19158",
+      "GB/T13609",
+      "GB50028",
+      "GB/T33318"
+    ],
+    "ocr_len": 6917
+  },
+  {
+    "file": "GBT+338-2025工业用甲醇 (1).pdf",
+    "std_no": "GB/T338",
+    "cn_name": "CCSG16朐",
+    "pub_date": "",
+    "impl_date": "2026-05-01实施",
+    "indicators": [
+      {
+        "indicator": "CZOCCOTNSO",
+        "condition": "<",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "nin",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "10",
+        "condition": "<",
+        "value": "0.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "(LLHCOOHHf)心伟",
+        "condition": "<",
+        "value": "0.001",
+        "unit": "5"
+      },
+      {
+        "indicator": "i伟",
+        "condition": "<",
+        "value": "0.000",
+        "unit": "2"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6680",
+      "GB/T6283",
+      "GB/T338",
+      "GB/T6324",
+      "HG/T4773",
+      "GB/T603",
+      "GB/T3143",
+      "GB/T501",
+      "GB/T8",
+      "GB/T6678",
+      "GB/T601",
+      "GB/T6824",
+      "GB/T2013",
+      "GB190",
+      "GB/T40394",
+      "GB/T6682",
+      "GB/T46434"
+    ],
+    "ocr_len": 5345
+  },
+  {
+    "file": "GBT+338-2025工业用甲醇.pdf",
+    "std_no": "GB/T338",
+    "cn_name": "CCSG16朐",
+    "pub_date": "",
+    "impl_date": "2026-05-01实施",
+    "indicators": [
+      {
+        "indicator": "CZOCCOTNSO",
+        "condition": "<",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "nin",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "10",
+        "condition": "<",
+        "value": "0.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "(LLHCOOHHf)心伟",
+        "condition": "<",
+        "value": "0.001",
+        "unit": "5"
+      },
+      {
+        "indicator": "i伟",
+        "condition": "<",
+        "value": "0.000",
+        "unit": "2"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6680",
+      "GB/T6283",
+      "GB/T338",
+      "GB/T6324",
+      "HG/T4773",
+      "GB/T603",
+      "GB/T3143",
+      "GB/T501",
+      "GB/T8",
+      "GB/T6678",
+      "GB/T601",
+      "GB/T6824",
+      "GB/T2013",
+      "GB190",
+      "GB/T40394",
+      "GB/T6682",
+      "GB/T46434"
+    ],
+    "ocr_len": 5345
+  },
+  {
+    "file": "GBT+34510-2017汽车用液化天然气气瓶.pdf",
+    "std_no": "GB/T34510",
+    "cn_name": "汽车用液化天然气气瓶",
+    "pub_date": "2017-10-14发布",
+    "impl_date": "2018-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T13005",
+      "GB/T17925",
+      "GB/T1",
+      "GB/T12137",
+      "GB/T34510",
+      "GB/T355054",
+      "GB/T2653",
+      "GB/T228",
+      "GB/T18448",
+      "GB/T80",
+      "GB/T31480",
+      "GB/T24511",
+      "GB/T9251",
+      "GB/T31481",
+      "GB/T229",
+      "GB/T18443",
+      "HG/T269013",
+      "GB/T33209",
+      "GB/T15384",
+      "GB/T7144",
+      "GB/T25986"
+    ],
+    "ocr_len": 5104
+  },
+  {
+    "file": "GBT+35795-2017农用地膜.pdf",
+    "std_no": "GB/T35795",
+    "cn_name": "全生物降解农用地面覆盖薄膜",
+    "pub_date": "2017-12-29发布",
+    "impl_date": "2018-07-01实施",
+    "indicators": [
+      {
+        "indicator": "0",
+        "condition": ">",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "220",
+        "condition": "=",
+        "value": "10",
+        "unit": "0"
+      },
+      {
+        "indicator": "50",
+        "condition": "=",
+        "value": "2.0",
+        "unit": "0"
+      },
+      {
+        "indicator": "A",
+        "condition": "=",
+        "value": "80",
+        "unit": "0"
+      },
+      {
+        "indicator": "BHAS)",
+        "condition": "≤",
+        "value": "5",
+        "unit": ""
+      },
+      {
+        "indicator": "铁tco",
+        "condition": "=",
+        "value": "3",
+        "unit": "8"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T35795",
+      "GB/T19276",
+      "GB/T1037",
+      "GB/T22047",
+      "GB/T1927",
+      "GB/T6673",
+      "GB/T5572",
+      "GB/T1040",
+      "GB/T2918",
+      "GB/T2828",
+      "GB/T19277",
+      "GB/T16422",
+      "GB15337"
+    ],
+    "ocr_len": 5322
+  },
+  {
+    "file": "GBT+36126-2018GB_T 36126-2018  汽车用液化天然气加气机.pdf",
+    "std_no": "GB/T36126",
+    "cn_name": "汽车用液化天然气加气机",
+    "pub_date": "2018-05-14发布",
+    "impl_date": "2018-12-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/25986",
+      "GB/T18442",
+      "GB/T36126",
+      "GB/T17626",
+      "GB50058",
+      "GB4948",
+      "GB/T2425",
+      "GB3836",
+      "GB/T7626",
+      "GB50156",
+      "GB150",
+      "GB/T2423",
+      "GB/T13384",
+      "GB/T191",
+      "GB/T47982",
+      "GB/T25988",
+      "GB383611"
+    ],
+    "ocr_len": 4477
+  },
+  {
+    "file": "GBT+37918-2019肥料级氯化钾.pdf",
+    "std_no": "GB/T37918",
+    "cn_name": "肥料级氮化钾",
+    "pub_date": "2019-08-30发布",
+    "impl_date": "2020-03-01实施",
+    "indicators": [
+      {
+        "indicator": "75mm",
+        "condition": ">",
+        "value": "9",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB18382",
+      "NY/T1973",
+      "GB/T24891",
+      "GB/T2440",
+      "HG/T2843",
+      "GB/T8569",
+      "GB/T37918",
+      "HG/T2848",
+      "GB/T6682",
+      "GB/5579",
+      "GB/T10454"
+    ],
+    "ocr_len": 6423
+  },
+  {
+    "file": "GBT+3830-2024软聚氯乙烯压延薄膜和片材.pdf",
+    "std_no": "GB/T3830",
+    "cn_name": "软聚氮乙烯压延薄膜和片材",
+    "pub_date": "2024-08-23发布",
+    "impl_date": "2025-03-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 3048
+  },
+  {
+    "file": "GBT+38429.1-2019GB_T 38429.1-2019  燃气加气站防爆安全技术 第1部分：液化石油气（LPG）加气机防爆要求.pdf",
+    "std_no": "GB/T38429",
+    "cn_name": "燃气加气站防爆安全技术",
+    "pub_date": "2019-12-31发布",
+    "impl_date": "2020-07-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T22380",
+      "GB/T10546",
+      "GB/T4208",
+      "GB50058",
+      "GB19159",
+      "GB/T5226",
+      "GB3836",
+      "GB/T5013",
+      "GB/T5023",
+      "GB25286",
+      "GB/T140483",
+      "GB/T38429",
+      "GB4943",
+      "GB/T3836",
+      "GB25285",
+      "GB/T1226",
+      "GB/T14048"
+    ],
+    "ocr_len": 5320
+  },
+  {
+    "file": "GBT+38429.2-2019GB_T 38429.2-2019  燃气加气站防爆安全技术 第2部分：与液化石油气（LPG）有关的防爆部件和安装要求.pdf",
+    "std_no": "GB/T38429",
+    "cn_name": "燃气加气站防爆安全技术",
+    "pub_date": "2019-12-31发布",
+    "impl_date": "2020-07-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T12237",
+      "GB/T15185",
+      "GB50156",
+      "GB19159",
+      "GB3836",
+      "GB/T9112",
+      "GB/T179491",
+      "GB/T384292",
+      "GB/T38429",
+      "GB25286",
+      "GB/T3836",
+      "GB25285",
+      "GB/T1226",
+      "GB/T7306"
+    ],
+    "ocr_len": 4878
+  },
+  {
+    "file": "GBT+40395-2021工业用甲醇中铵离子的测定 离子色谱法.pdf",
+    "std_no": "GB/T40395",
+    "cn_name": "工业用甲醇中铰离子的测定",
+    "pub_date": "2021-08-20发布",
+    "impl_date": "2022-03-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T6680",
+      "GB/T8170",
+      "GB/T33087",
+      "GB/3723",
+      "GB/T34672",
+      "GB/T3723",
+      "GB/T40395"
+    ],
+    "ocr_len": 5290
+  },
+  {
+    "file": "GBT+42416-2023M100车用甲醇燃料.pdf",
+    "std_no": "GB/T42416",
+    "cn_name": "ccsE3月",
+    "pub_date": "2023-05-23发布",
+    "impl_date": "2023-09-01实施",
+    "indicators": [
+      {
+        "indicator": "不朐医",
+        "condition": "<",
+        "value": "1.0",
+        "unit": "mg/kgGBT6321"
+      },
+      {
+        "indicator": "meh",
+        "condition": "<",
+        "value": "1.0",
+        "unit": "mg/kgGB/T34100"
+      },
+      {
+        "indicator": "séht",
+        "condition": "<",
+        "value": "2.0",
+        "unit": "mg/kgGBYT17476"
+      },
+      {
+        "indicator": "Peeht",
+        "condition": "<",
+        "value": "0.01",
+        "unit": "g/LSH/T0712"
+      },
+      {
+        "indicator": "顺洁氙闻顶",
+        "condition": "<",
+        "value": "2",
+        "unit": "meGB/T37322"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6283",
+      "GB/T4472",
+      "GB/T338",
+      "GB/T20082",
+      "GBT6321",
+      "GB/T42416",
+      "GB/122",
+      "GB/T7534",
+      "GB190",
+      "GB/T41472",
+      "GB/T14039",
+      "GB/T37322",
+      "GB/T16483",
+      "GB/T8170",
+      "GB/T23510",
+      "GB/T6824",
+      "GB/T37522",
+      "GB/T2013",
+      "GB/T44724",
+      "GB/T511",
+      "GB/T17476",
+      "GB/T34100",
+      "GB/T6324",
+      "GB/T4756"
+    ],
+    "ocr_len": 5872
+  },
+  {
+    "file": "GBT+42436-2023M100车用甲醇燃料添加剂.pdf",
+    "std_no": "GB/T42436",
+    "cn_name": "ccsE3月",
+    "pub_date": "2023-05-23发布",
+    "impl_date": "2023-09-01实施",
+    "indicators": [
+      {
+        "indicator": "2",
+        "condition": "<",
+        "value": "1400",
+        "unit": "me/tit"
+      },
+      {
+        "indicator": "KOHi",
+        "condition": "<",
+        "value": "1",
+        "unit": "mele"
+      },
+      {
+        "indicator": "—LithSit",
+        "condition": "<",
+        "value": "25",
+        "unit": "me/ke"
+      },
+      {
+        "indicator": "——LiHit",
+        "condition": "<",
+        "value": "25",
+        "unit": "me/ke"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T37322",
+      "GB/T11140",
+      "GB/T25383",
+      "GB/T42416",
+      "GB/T508",
+      "GB/T17476",
+      "GB/T16483",
+      "GB/122",
+      "GB/T6324",
+      "GB/T8170",
+      "GB/16483",
+      "GB/T42436",
+      "GB/T3535",
+      "GB/T1114092",
+      "GB/T4756",
+      "GB/T1140",
+      "GB/T191",
+      "GB/T261"
+    ],
+    "ocr_len": 5318
+  },
+  {
+    "file": "GBT+42531-2023低热矿渣硅酸盐水泥.pdf",
+    "std_no": "GB/T42531",
+    "cn_name": "低热矿渣硅酸盐水泥",
+    "pub_date": "2023-05-23发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [
+      {
+        "indicator": "5E",
+        "condition": ">",
+        "value": "5",
+        "unit": "5"
+      },
+      {
+        "indicator": "5",
+        "condition": "<",
+        "value": "19",
+        "unit": "7"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T12959",
+      "GB/T42531",
+      "GB/T176",
+      "GB/T2",
+      "GB/T1346",
+      "GB/T8074",
+      "GB/T17671",
+      "GB6566",
+      "GB/T18046",
+      "GB/T12573",
+      "GB/T12080",
+      "GB/T12960",
+      "GB/T750",
+      "GB/T5483",
+      "GB/T12059",
+      "GB/T9774",
+      "GB31898",
+      "GB/T21372",
+      "GB/T21371",
+      "GB31893"
+    ],
+    "ocr_len": 6605
+  }
+]

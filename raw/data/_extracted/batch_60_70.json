@@ -1,0 +1,294 @@
+[
+  {
+    "file": "GBT+45920-2025铁铝酸盐水泥.pdf",
+    "std_no": "GB/T45920",
+    "cn_name": "铁铝酸盐水泥",
+    "pub_date": "2025-06-30发布",
+    "impl_date": "2026-01-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T12573",
+      "GB/T45920",
+      "GB/T203",
+      "GB/T5483",
+      "GB/T205",
+      "GB/T18046",
+      "GB/T176717"
+    ],
+    "ocr_len": 4332
+  },
+  {
+    "file": "GBT+46293-2025肥料中石油烃总量的测定 红外吸收光谱法.pdf",
+    "std_no": "GB/T46293",
+    "cn_name": "CCSG20朐",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T46293"
+    ],
+    "ocr_len": 3398
+  },
+  {
+    "file": "GBT+46434-2025甲醇纯度及其微量有机杂质的测定 气相色谱法.pdf",
+    "std_no": "GB/T46434",
+    "cn_name": "CCSG16朐",
+    "pub_date": "",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T3723",
+      "GB/T46434",
+      "GBT9722",
+      "GB/T9722",
+      "GB/T6680"
+    ],
+    "ocr_len": 4362
+  },
+  {
+    "file": "GBT+47096-2026绿色产品评价 水泥.pdf",
+    "std_no": "GB/T47096",
+    "cn_name": "CCSZ04朐",
+    "pub_date": "2026-01-28发布",
+    "impl_date": "2026-08-01实施",
+    "indicators": [
+      {
+        "indicator": "atkRORJUICE",
+        "condition": "=",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "BRE",
+        "condition": "<",
+        "value": "0.16",
+        "unit": "5"
+      },
+      {
+        "indicator": "n",
+        "condition": "<",
+        "value": "0.14",
+        "unit": "5"
+      },
+      {
+        "indicator": "TATEEES",
+        "condition": "<",
+        "value": "0.0",
+        "unit": "2"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T33761",
+      "GB18597",
+      "GB18599",
+      "GB/T47096",
+      "GB/T23331",
+      "GB/T30760",
+      "GB/T17671",
+      "GB/T21372",
+      "GB8978",
+      "GB31893",
+      "GB/1",
+      "GB/T24001",
+      "GB4915",
+      "GB/T18916",
+      "GB/T24789",
+      "GB/T19001",
+      "GB6566",
+      "GB/T213",
+      "GB/T45001",
+      "GB/161",
+      "GB/33650",
+      "GB175",
+      "GB89785",
+      "GB17167",
+      "GB30485",
+      "GB16780",
+      "GB/T4131"
+    ],
+    "ocr_len": 4259
+  },
+  {
+    "file": "GBT+5138-2021工业用液氯.pdf",
+    "std_no": "GB/T5138",
+    "cn_name": "工业用液氮",
+    "pub_date": "2021-08-20发布",
+    "impl_date": "2022-07-01实施",
+    "indicators": [
+      {
+        "indicator": "94",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      },
+      {
+        "indicator": "SRAeWHPY96",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      }
+    ],
+    "referenced_standards": [
+      "GB/T513",
+      "GB/T603",
+      "GB11984",
+      "GB/T6682",
+      "GB/T602",
+      "GB/T5138",
+      "GB190",
+      "HG/T3941",
+      "GB1"
+    ],
+    "ocr_len": 5942
+  },
+  {
+    "file": "GBT+535-2020肥料级硫酸铵.pdf",
+    "std_no": "GB/T535",
+    "cn_name": "肥料级硫酸铰",
+    "pub_date": "2020-11-19发布",
+    "impl_date": "2021-06-01实施",
+    "indicators": [
+      {
+        "indicator": "ke",
+        "condition": "<",
+        "value": "5",
+        "unit": "0"
+      },
+      {
+        "indicator": "ke)",
+        "condition": "<",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "n",
+        "condition": "=",
+        "value": "3",
+        "unit": "xV"
+      }
+    ],
+    "referenced_standards": [
+      "GB38100",
+      "GB/T29400",
+      "GB/1",
+      "NY/T1117",
+      "GB/T8569",
+      "GB38400",
+      "GB/T66824",
+      "GB18382",
+      "GB/T6679",
+      "GB/T6682",
+      "GB/T32952",
+      "GB/T8170",
+      "NY/T1978",
+      "GB/T24890",
+      "NY/T2542",
+      "NY/T117",
+      "GB/T3254",
+      "GB/T22923",
+      "GB/T535"
+    ],
+    "ocr_len": 5416
+  },
+  {
+    "file": "GBT+748-2023抗硫酸盐硅酸盐水泥.pdf",
+    "std_no": "GB/T748",
+    "cn_name": "抗硫酸盐硅酸盐水泥",
+    "pub_date": "2023-05-23发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [
+      {
+        "indicator": "LE",
+        "condition": "<",
+        "value": "8000",
+        "unit": "mg/L"
+      },
+      {
+        "indicator": "TeFeePRG",
+        "condition": "=",
+        "value": "5",
+        "unit": "FAGRSG0OLEHAAEHL"
+      }
+    ],
+    "referenced_standards": [
+      "GB6566",
+      "GB/T12573",
+      "GB/T21871",
+      "GB31893",
+      "GB/T748",
+      "GB/T97747",
+      "GB/T26748",
+      "GB/T8074",
+      "GB/T750",
+      "GB/T1346",
+      "GB/T5483",
+      "GB/T176717",
+      "GB/T21371"
+    ],
+    "ocr_len": 6003
+  },
+  {
+    "file": "GBT+8334-2022GB_T 8334-2022  液化石油气钢瓶定期检验与评定.pdf",
+    "std_no": "GB/T8334",
+    "cn_name": "液化石油气钢瓶定期检验与评定",
+    "pub_date": "2022-03-09发布",
+    "impl_date": "2022-10-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T10878",
+      "GB/T8334",
+      "GB/1",
+      "GB/T7512",
+      "GB/T12137",
+      "GB/T9251"
+    ],
+    "ocr_len": 5272
+  },
+  {
+    "file": "GB_T 13663给水用聚乙烯（PE）管道系统 第2部分：管材.pdf",
+    "std_no": "GB/T13663",
+    "cn_name": ":;c量]z…3140.,z",
+    "pub_date": "2018-03-15发布",
+    "impl_date": "2018-10-01实施",
+    "indicators": [
+      {
+        "indicator": "CAPEMRBEHHRARFoFZE5000bWit(e",
+        "condition": "<",
+        "value": "5000",
+        "unit": "h"
+      },
+      {
+        "indicator": "200C",
+        "condition": ">",
+        "value": "20",
+        "unit": "min"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6111",
+      "GB/T6671",
+      "GB/T9345",
+      "GB/T2918",
+      "GB/T13021-1991",
+      "GB/T3682",
+      "GB/T17219",
+      "GB/T8806",
+      "GB/T2828",
+      "GB/T8804",
+      "GB/T4217",
+      "GB/T10788",
+      "GB/T13663"
+    ],
+    "ocr_len": 7272
+  },
+  {
+    "file": "GB_T 15558.2-2023 燃气用埋地聚乙烯（PE）管道系统 第2部分：管材.pdf",
+    "std_no": "GB/T15558",
+    "cn_name": "燃气用埋地聚乙烯(PB)管道系统",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2024-06-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 938
+  }
+]

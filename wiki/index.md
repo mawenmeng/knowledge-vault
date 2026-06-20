@@ -30,3 +30,4 @@
 ## 📝 Syntheses (综合报告)
 
 - [[wiki/syntheses/2026-06-20-national-standards-comprehensive-report]] — 81 份国家标准综合分析报告
+- [[wiki/syntheses/2026-06-20-technical-indicators-knowledge-graph]] — 技术指标知识图谱（标准→指标→值→引用关系）

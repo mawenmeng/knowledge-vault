@@ -1,0 +1,255 @@
+[
+  {
+    "file": "GB+5842-2023GB 5842-2023  液化石油气钢瓶.pdf",
+    "std_no": "GB5842",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2336
+  },
+  {
+    "file": "GB+7512-2023液化石油气瓶阀.pdf",
+    "std_no": "GB7512",
+    "cn_name": "液化石油气瓶阙",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2023-12-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2008
+  },
+  {
+    "file": "GBT+10510-2023硝酸磷肥、硝酸磷钾肥.pdf",
+    "std_no": "GB/T10510",
+    "cn_name": "硝酸磷肥、硝酸磷钾肥",
+    "pub_date": "2023-08-06发布",
+    "impl_date": "2024-03-01实施",
+    "indicators": [
+      {
+        "indicator": "T10510—2007CHIRRBENEHHARHEAUIE",
+        "condition": ">",
+        "value": ".57",
+        "unit": "GB/T10510"
+      },
+      {
+        "indicator": "REHieHO)关",
+        "condition": "<",
+        "value": "1",
+        "unit": "5"
+      },
+      {
+        "indicator": "E",
+        "condition": "<",
+        "value": "0.",
+        "unit": "5"
+      },
+      {
+        "indicator": "mer3",
+        "condition": "<",
+        "value": "15.",
+        "unit": "0"
+      },
+      {
+        "indicator": "eetaee",
+        "condition": "<",
+        "value": "20.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T10512",
+      "GB/T10510",
+      "GB/T22008",
+      "GB/T3597",
+      "GB/T8572",
+      "GB/T10513",
+      "GB/T8574",
+      "GB/T24890",
+      "GB/T8170",
+      "GB/T10514",
+      "GB/T10515",
+      "GB38400",
+      "GB18382",
+      "GB/T10511",
+      "GB/T15063",
+      "GB/T6274",
+      "GB/T22923",
+      "GB/T6679"
+    ],
+    "ocr_len": 5337
+  },
+  {
+    "file": "GBT+13591-2025乙炔气瓶充装规定.pdf",
+    "std_no": "GB/T13591",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2025-08-29发布",
+    "impl_date": "2026-03-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 1510
+  },
+  {
+    "file": "GBT+15063-2020复合肥料.pdf",
+    "std_no": "GB/T15063",
+    "cn_name": "复合肥_料",
+    "pub_date": "2020-11-19发布",
+    "impl_date": "2021-06-01实施",
+    "indicators": [
+      {
+        "indicator": "TEEPEAATTAYFESRY26",
+        "condition": ">",
+        "value": "6050",
+        "unit": "0"
+      },
+      {
+        "indicator": "LLAIEEE)",
+        "condition": ">",
+        "value": "0.0",
+        "unit": "2"
+      },
+      {
+        "indicator": "RUHRHf—IAAEATy",
+        "condition": ">",
+        "value": "1.0.9",
+        "unit": "6"
+      },
+      {
+        "indicator": "BREFNWARAPBKT",
+        "condition": ">",
+        "value": "30.09617",
+        "unit": "%"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T24891",
+      "GB/T3597",
+      "NY/T1977",
+      "GB/T8576",
+      "GB/T34784",
+      "GB/T22923",
+      "GB/T6679",
+      "GB/T8573",
+      "NY/T1116",
+      "GB/T14540",
+      "GB/T8572",
+      "NY/T2540",
+      "HG/T2843",
+      "GB/T6274",
+      "GB/T8574",
+      "GB/T24890",
+      "GB38400",
+      "GB18382",
+      "GB/T15063",
+      "GB/T19203",
+      "GB/T8571"
+    ],
+    "ocr_len": 6507
+  },
+  {
+    "file": "GBT+17259-2024机动车用液化石油气钢瓶.pdf",
+    "std_no": "GB/T17259",
+    "cn_name": "ccsJ74朐",
+    "pub_date": "2024-04-25发布",
+    "impl_date": "2024-11-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2759
+  },
+  {
+    "file": "GBT+18006.3-2020一次性可降解餐饮具通用技术要求.pdf",
+    "std_no": "GB/T18006",
+    "cn_name": "伟余o8006372080",
+    "pub_date": "2020-11-09发布",
+    "impl_date": "2020-12-31实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T33797",
+      "GB/T37837",
+      "GB/T18006",
+      "GB/T180063",
+      "GB/T19276",
+      "GB/T32106",
+      "GB/T9345",
+      "GB/T22047",
+      "GB/T2828",
+      "GB/T192",
+      "GB/T28206",
+      "GB/T462",
+      "GB/T19811",
+      "GB/T1927"
+    ],
+    "ocr_len": 7839
+  },
+  {
+    "file": "GBT+18364-2017汽车用液化石油气加气口.pdf",
+    "std_no": "GB\n1",
+    "cn_name": "汽车用液化石油气加气口",
+    "pub_date": "2017-10-14发布",
+    "impl_date": "2018-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T3764",
+      "GB/T17895",
+      "GB19239",
+      "GB/T10587",
+      "GB/T9969",
+      "GB/T18",
+      "GB/T18364",
+      "GB/T1",
+      "GB/T10125",
+      "GB/T528",
+      "GB19159"
+    ],
+    "ocr_len": 5237
+  },
+  {
+    "file": "GBT+18916.29-2017取水定额 第29部分：烧碱.pdf",
+    "std_no": "GB/T18916",
+    "cn_name": "取水定额“第29部分:烧碱",
+    "pub_date": "2017-05-12发布",
+    "impl_date": "2017-12-01实施",
+    "indicators": [
+      {
+        "indicator": "26BSFEH",
+        "condition": "<",
+        "value": "8.",
+        "unit": "0"
+      },
+      {
+        "indicator": "26BFHe",
+        "condition": "<",
+        "value": "5.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T21534",
+      "GB/T200",
+      "GB/T12452",
+      "GB/T18916",
+      "GB/T1",
+      "GB/T209",
+      "GB/T18820",
+      "GB24789"
+    ],
+    "ocr_len": 3469
+  },
+  {
+    "file": "GBT+18916.35-2018取水定额 第35部分：煤制甲醇.pdf",
+    "std_no": "GB/T18916",
+    "cn_name": "取水定额第35部分:煤制甲醇",
+    "pub_date": "",
+    "impl_date": "2018-12-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T21534",
+      "GB/T12452",
+      "GB/T18916",
+      "GB/T1",
+      "GB/T18820",
+      "GB24789"
+    ],
+    "ocr_len": 4648
+  }
+]

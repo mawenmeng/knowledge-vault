@@ -1,0 +1,172 @@
+[
+  {
+    "file": "GB_T 3048.1-2007  电线电缆电性能试验方法 第1部分：总则.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [
+      {
+        "indicator": "MeNWEEshy",
+        "condition": "=",
+        "value": "11",
+        "unit": "g/m"
+      },
+      {
+        "indicator": "EEPEIASk8",
+        "condition": ">",
+        "value": "16",
+        "unit": "ERHE"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 4787
+  },
+  {
+    "file": "GB_T 3048.10-2007  电线电缆电性能试验方法 第10部分：挤出护套火花试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 4181
+  },
+  {
+    "file": "GB_T 3048.16-2007  电线电缆电性能试验方法 第16部分：表面电阻试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 4828
+  },
+  {
+    "file": "GB_T 3048.3-2007  电线电缆电性能试验方法 第3部分：半导电橡塑材料体积电阻率试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 4973
+  },
+  {
+    "file": "GB_T 3048.5-2007  电线电缆电性能试验方法　第5部分：绝缘电阻试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 5997
+  },
+  {
+    "file": "GB_T 3048.7-2007-gbt-e-300电线电缆电性能试验方法 第7部分：耐电痕试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 5304
+  },
+  {
+    "file": "GB∕T 19812.6-2022 塑料节水灌溉器材　第6部分：输水用聚乙烯(PE)管材.pdf",
+    "std_no": "GB/T19812",
+    "cn_name": "塑料节水灌溉器材",
+    "pub_date": "2022-07-11发布",
+    "impl_date": "2023-02-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T6111-2018",
+      "GB/T18812",
+      "GB/T19812",
+      "GB/T8806",
+      "GB/T192782018",
+      "GB/T39994",
+      "GB/T6671",
+      "GB/T2828",
+      "GB/T13021",
+      "GB/T1040",
+      "GB/T19466",
+      "GB/T2918",
+      "GB/T8804",
+      "GB/T19278",
+      "GB/T3682",
+      "GB/T9345",
+      "GB/T18251"
+    ],
+    "ocr_len": 7038
+  },
+  {
+    "file": "GB∕T 40967-2021 核电厂用聚乙烯（PE）管材及管件.pdf",
+    "std_no": "GB/T40967",
+    "cn_name": "核电厂用聚乙烯(PE)管材及管件",
+    "pub_date": "2021-11-26发布",
+    "impl_date": "2022-06-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T19810",
+      "GB/T2828",
+      "GB/T1038",
+      "GB/T1",
+      "GB/T19278",
+      "GB/T3682",
+      "GB/T19488",
+      "GB/T8806",
+      "GB/T32434",
+      "GB/T19806",
+      "GB/T18251",
+      "GB/T19280",
+      "GB/T15560-1995",
+      "GB/T13663",
+      "GB/T18252",
+      "GB/T13683",
+      "GB/T19808",
+      "GB/T1033",
+      "GB/T13021",
+      "GB/T2918",
+      "GB/T18809",
+      "GB/T40967",
+      "GB/T6111"
+    ],
+    "ocr_len": 5520
+  },
+  {
+    "file": "NYT1224-2006FDIS农用塑料薄膜安全使用控制技术规范.pdf",
+    "std_no": "NY/T1224",
+    "cn_name": "农用塑料薄膜安全使用控制技术规范",
+    "pub_date": "2006-12-06发布",
+    "impl_date": "2007-02-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T13735",
+      "GB/T4455",
+      "GB/T3830",
+      "NY/T1224"
+    ],
+    "ocr_len": 5422
+  },
+  {
+    "file": "NYT2268-2020FDIS农业用改性硝酸铵及使用规程.pdf",
+    "std_no": "NY/T2268",
+    "cn_name": "代哉NY2268一2012",
+    "pub_date": "2020-07-27发布",
+    "impl_date": "2020-11-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 5681
+  },
+  {
+    "file": "NYT3620-2020FDIS农业用硫酸钾镁及使用规程.pdf",
+    "std_no": "NY/T3620",
+    "cn_name": "农业用硫酸钾镁及使用规程",
+    "pub_date": "2020-07-27发布",
+    "impl_date": "2020-11-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 4565
+  }
+]

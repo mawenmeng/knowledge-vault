@@ -1,0 +1,287 @@
+[
+  {
+    "file": "32964-2016-gbt-cd-300液化天然气用不锈钢焊接钢管.pdf",
+    "std_no": "GB/T32964",
+    "cn_name": "液化天然气用不锈钢焊接钢管",
+    "pub_date": "2016-08-29发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "2",
+        "condition": "=",
+        "value": "21",
+        "unit": "0"
+      },
+      {
+        "indicator": "2",
+        "condition": "=",
+        "value": "21",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T21835",
+      "GB/T222",
+      "GB/T32964",
+      "GB/T223"
+    ],
+    "ocr_len": 6076
+  },
+  {
+    "file": "3559-2001-gb-e-300农业用碳酸氢铵.pdf",
+    "std_no": "GB3559",
+    "cn_name": "农业用碳酸氧铰",
+    "pub_date": "",
+    "impl_date": "",
+    "indicators": [
+      {
+        "indicator": "OND",
+        "condition": ">",
+        "value": "17.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "KO)",
+        "condition": "<",
+        "value": "3.0355.00.",
+        "unit": "5"
+      },
+      {
+        "indicator": ")",
+        "condition": "=",
+        "value": "1",
+        "unit": "mol/L"
+      },
+      {
+        "indicator": "AbikHEMH5HFK(NaOH)",
+        "condition": "=",
+        "value": "1",
+        "unit": "mol/L"
+      },
+      {
+        "indicator": "c(NaOH)",
+        "condition": "=",
+        "value": "1.000",
+        "unit": "mol/L"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6534
+  },
+  {
+    "file": "4553-2016-gbt-cd-300工业硝酸钠.pdf",
+    "std_no": "GB/T4553",
+    "cn_name": "工业硝酸钠",
+    "pub_date": "2016-12-13发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "公",
+        "condition": "=",
+        "value": "9",
+        "unit": "0"
+      },
+      {
+        "indicator": "wi",
+        "condition": "=",
+        "value": "100",
+        "unit": "%"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T3049",
+      "GB190-2009",
+      "GB/T3600",
+      "GB/T4553",
+      "GB/T3051--2000",
+      "GB/T191",
+      "GB/T12684",
+      "GB12268",
+      "GB/T6682",
+      "GB/T3051-2000",
+      "HG/T3696",
+      "GB/T6678",
+      "GB12463"
+    ],
+    "ocr_len": 6205
+  },
+  {
+    "file": "GB+11174-2025液化石油气.pdf",
+    "std_no": "GB11174",
+    "cn_name": "液_化_石",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-11-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/30517",
+      "GB/T30518",
+      "GB/T80172012",
+      "GB/T12576",
+      "GB190",
+      "GB30000",
+      "GB50028",
+      "GB11174",
+      "GB/T5274",
+      "GB18180"
+    ],
+    "ocr_len": 6706
+  },
+  {
+    "file": "GB+13735-2017聚乙烯吹塑农用地面覆盖薄膜 (1).pdf",
+    "std_no": "GB\n1",
+    "cn_name": "聚乙烯吹塑农用地面覆盖薄膜",
+    "pub_date": "",
+    "impl_date": "2018-05-01实施",
+    "indicators": [
+      {
+        "indicator": "025",
+        "condition": "=",
+        "value": "18",
+        "unit": "0"
+      },
+      {
+        "indicator": "030",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "dy",
+        "condition": "<",
+        "value": "0.01",
+        "unit": "5"
+      },
+      {
+        "indicator": "015nmlaolsd",
+        "condition": "<",
+        "value": "0.020",
+        "unit": "mm"
+      },
+      {
+        "indicator": "2260",
+        "condition": "=",
+        "value": "30",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6672",
+      "GB13735",
+      "GB/T16422",
+      "GB/T6673",
+      "GB/T1040",
+      "GB/T2828",
+      "GB/T2918"
+    ],
+    "ocr_len": 5286
+  },
+  {
+    "file": "GB+13735-2017聚乙烯吹塑农用地面覆盖薄膜.pdf",
+    "std_no": "GB\n1",
+    "cn_name": "聚乙烯吹塑农用地面覆盖薄膜",
+    "pub_date": "",
+    "impl_date": "2018-05-01实施",
+    "indicators": [
+      {
+        "indicator": "025",
+        "condition": "=",
+        "value": "18",
+        "unit": "0"
+      },
+      {
+        "indicator": "030",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "dy",
+        "condition": "<",
+        "value": "0.01",
+        "unit": "5"
+      },
+      {
+        "indicator": "015nmlaolsd",
+        "condition": "<",
+        "value": "0.020",
+        "unit": "mm"
+      },
+      {
+        "indicator": "2260",
+        "condition": "=",
+        "value": "30",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T6672",
+      "GB13735",
+      "GB/T16422",
+      "GB/T6673",
+      "GB/T1040",
+      "GB/T2828",
+      "GB/T2918"
+    ],
+    "ocr_len": 5286
+  },
+  {
+    "file": "GB+175-2023通用硅酸盐水泥.pdf",
+    "std_no": "GB175",
+    "cn_name": "代唯G8175—2007",
+    "pub_date": "2023-11-27发布",
+    "impl_date": "2024-06-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB6566",
+      "GB/T12960",
+      "GB31893",
+      "GB/T26748",
+      "GB/T21371",
+      "GB/T8074",
+      "GB/T35164",
+      "GB/T97747",
+      "GB/T176",
+      "GB/T17671",
+      "GB/T5483",
+      "GB/T12573",
+      "GB175"
+    ],
+    "ocr_len": 4301
+  },
+  {
+    "file": "GB+19107-2003次氯酸钠溶液包装要求.pdf",
+    "std_no": "GB19107",
+    "cn_name": "7rms嘎菖",
+    "pub_date": "2003-05-16发布",
+    "impl_date": "2003-06-15实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 6995
+  },
+  {
+    "file": "GB+32375-2025电石生产安全技术规范.pdf",
+    "std_no": "GB32375",
+    "cn_name": "电石生产安全技术规范",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-09-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2055
+  },
+  {
+    "file": "GB+35844-2018GB 35844-2018  瓶装液化石油气调压器.pdf",
+    "std_no": "GB35844",
+    "cn_name": "装液化石油气调压器",
+    "pub_date": "2018-02-06发布",
+    "impl_date": "2019-03-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB35844",
+      "GB/T15115",
+      "GB/T1690",
+      "GB/T197",
+      "GB/T196"
+    ],
+    "ocr_len": 4363
+  }
+]

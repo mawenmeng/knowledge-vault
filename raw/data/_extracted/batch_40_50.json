@@ -1,0 +1,315 @@
+[
+  {
+    "file": "GBT+3048.11-2025电线电缆电性能试验方法 第11部分：介质损耗角正切试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13真",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 3512
+  },
+  {
+    "file": "GBT+3048.13-2025电线电缆电性能试验方法 第13部分：冲击电压试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13朐",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2426
+  },
+  {
+    "file": "GBT+3048.4-2025电线电缆电性能试验方法 第4部分：导体直流电阻试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13真",
+    "pub_date": "2025-08-29发布",
+    "impl_date": "2026-03-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 2529
+  },
+  {
+    "file": "GBT+3048.8-2025 电线电缆电性能试验方法 第8部分：交流电压试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "ccsK13朐",
+    "pub_date": "2025-10-05发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 3586
+  },
+  {
+    "file": "GBT+3183-2025砌筑水泥.pdf",
+    "std_no": "GB/T3183",
+    "cn_name": "砌_筑水“泥",
+    "pub_date": "2025-10-31发布",
+    "impl_date": "2026-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T26748",
+      "GB/T12573",
+      "GB/T21372",
+      "GB/T203",
+      "GB/T5483",
+      "GB/T21371",
+      "GB6566",
+      "GB/T1596",
+      "GB31893",
+      "GB/T35164",
+      "GB/T9774",
+      "GB/15",
+      "GB/T2847",
+      "GB/T6645",
+      "GB/T1346",
+      "GB/T176717",
+      "GB/T45002",
+      "GB/T3183",
+      "GB/T176"
+    ],
+    "ocr_len": 5099
+  },
+  {
+    "file": "GBT+320-2025工业用合成盐酸.pdf",
+    "std_no": "GB/T320",
+    "cn_name": "工业用合成盐酸",
+    "pub_date": "2025-02-28发布",
+    "impl_date": "2025-09-01实施",
+    "indicators": [
+      {
+        "indicator": "RCFeit)",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      },
+      {
+        "indicator": "圆页氧CLD",
+        "condition": "≤",
+        "value": "0",
+        "unit": ""
+      },
+      {
+        "indicator": "it)",
+        "condition": "<",
+        "value": "0.0",
+        "unit": "3"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T320",
+      "GB/T502",
+      "GB/T191",
+      "GB/T602",
+      "GB/T6680",
+      "GB/T8",
+      "GB/T601",
+      "GB/T603",
+      "GB/T6678",
+      "GB190",
+      "GB/T6682",
+      "GB15258"
+    ],
+    "ocr_len": 4683
+  },
+  {
+    "file": "GBT+33445-2023煤制合成天然气.pdf",
+    "std_no": "GB/T33445",
+    "cn_name": "煤制合成天然气",
+    "pub_date": "2023-03-17发布",
+    "impl_date": "2023-07-01实施",
+    "indicators": [
+      {
+        "indicator": "广艳挺匠Mn",
+        "condition": "=",
+        "value": "34.",
+        "unit": "0"
+      },
+      {
+        "indicator": "6",
+        "condition": "<",
+        "value": "3.",
+        "unit": "0"
+      },
+      {
+        "indicator": "0",
+        "condition": "<",
+        "value": "1.",
+        "unit": "0"
+      },
+      {
+        "indicator": "4",
+        "condition": "<",
+        "value": "0.1",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T19158",
+      "GB/T13609",
+      "GB12268",
+      "GB50028",
+      "GB/T33318",
+      "GB/T37124",
+      "GB/T33445",
+      "GB/T53318",
+      "GB/T11062",
+      "GB/T28727",
+      "GB19158",
+      "GB/T30490",
+      "GB/T17258",
+      "GB17258",
+      "GB50251"
+    ],
+    "ocr_len": 6917
+  },
+  {
+    "file": "GBT+338-2025工业用甲醇 (1).pdf",
+    "std_no": "GB/T338",
+    "cn_name": "CCSG16朐",
+    "pub_date": "",
+    "impl_date": "2026-05-01实施",
+    "indicators": [
+      {
+        "indicator": "CZOCCOTNSO",
+        "condition": "<",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "nin",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "10",
+        "condition": "<",
+        "value": "0.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "(LLHCOOHHf)心伟",
+        "condition": "<",
+        "value": "0.001",
+        "unit": "5"
+      },
+      {
+        "indicator": "i伟",
+        "condition": "<",
+        "value": "0.000",
+        "unit": "2"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T338",
+      "GB/T6824",
+      "GB/T46434",
+      "GB/T6324",
+      "HG/T4773",
+      "GB/T6680",
+      "GB/T2013",
+      "GB/T8",
+      "GB/T6283",
+      "GB/T601",
+      "GB/T603",
+      "GB/T40394",
+      "GB/T3143",
+      "GB/T6678",
+      "GB190",
+      "GB/T6682",
+      "GB/T501"
+    ],
+    "ocr_len": 5345
+  },
+  {
+    "file": "GBT+338-2025工业用甲醇.pdf",
+    "std_no": "GB/T338",
+    "cn_name": "CCSG16朐",
+    "pub_date": "",
+    "impl_date": "2026-05-01实施",
+    "indicators": [
+      {
+        "indicator": "CZOCCOTNSO",
+        "condition": "<",
+        "value": "1",
+        "unit": "0"
+      },
+      {
+        "indicator": "nin",
+        "condition": "=",
+        "value": "6",
+        "unit": "0"
+      },
+      {
+        "indicator": "10",
+        "condition": "<",
+        "value": "0.2",
+        "unit": "0"
+      },
+      {
+        "indicator": "(LLHCOOHHf)心伟",
+        "condition": "<",
+        "value": "0.001",
+        "unit": "5"
+      },
+      {
+        "indicator": "i伟",
+        "condition": "<",
+        "value": "0.000",
+        "unit": "2"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T338",
+      "GB/T6824",
+      "GB/T46434",
+      "GB/T6324",
+      "HG/T4773",
+      "GB/T6680",
+      "GB/T2013",
+      "GB/T8",
+      "GB/T6283",
+      "GB/T601",
+      "GB/T603",
+      "GB/T40394",
+      "GB/T3143",
+      "GB/T6678",
+      "GB190",
+      "GB/T6682",
+      "GB/T501"
+    ],
+    "ocr_len": 5345
+  },
+  {
+    "file": "GBT+34510-2017汽车用液化天然气气瓶.pdf",
+    "std_no": "GB/T34510",
+    "cn_name": "汽车用液化天然气气瓶",
+    "pub_date": "2017-10-14发布",
+    "impl_date": "2018-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T228",
+      "GB/T15384",
+      "GB/T31480",
+      "GB/T13005",
+      "GB/T229",
+      "GB/T1",
+      "GB/T12137",
+      "GB/T25986",
+      "GB/T7144",
+      "GB/T24511",
+      "GB/T9251",
+      "GB/T2653",
+      "GB/T18448",
+      "GB/T80",
+      "GB/T33209",
+      "GB/T17925",
+      "GB/T31481",
+      "GB/T355054",
+      "HG/T269013",
+      "GB/T34510",
+      "GB/T18443"
+    ],
+    "ocr_len": 5104
+  }
+]

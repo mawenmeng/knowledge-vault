@@ -1,0 +1,251 @@
+[
+  {
+    "file": "10205-2009-gb-e-300磷酸一铵、磷酸二铵.pdf",
+    "std_no": "GB10205",
+    "cn_name": "磷酸一铰.磷酸二铰",
+    "pub_date": "2009-11-30发布",
+    "impl_date": "2010-06-01实施",
+    "indicators": [
+      {
+        "indicator": "19HERESPO",
+        "condition": "=",
+        "value": "2.5253.022.53.",
+        "unit": "0"
+      },
+      {
+        "indicator": "IRON)BYERESB6",
+        "condition": "=",
+        "value": "8.07.010.010.09.",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6430
+  },
+  {
+    "file": "19106-2013-gb-e-300次氯酸钠.pdf",
+    "std_no": "GB19106",
+    "cn_name": "heALIERIEARHREPENS妙市",
+    "pub_date": "2013-11-27发布",
+    "impl_date": "2014-12-01实施",
+    "indicators": [
+      {
+        "indicator": "mol)CM",
+        "condition": "=",
+        "value": "40.0",
+        "unit": "0"
+      },
+      {
+        "indicator": "OH",
+        "condition": "=",
+        "value": "4",
+        "unit": "Fe"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T601",
+      "GB/T602",
+      "GB/T603",
+      "GB190",
+      "GB/T6678",
+      "GB19106",
+      "GB/T191",
+      "GB19107",
+      "GB/T6682",
+      "GB/T6680"
+    ],
+    "ocr_len": 6940
+  },
+  {
+    "file": "20561-2006-gb-e-300GB_T 20561-2006  机动车用液化石油气钢瓶定期检验与评定.pdf",
+    "std_no": "GB20561",
+    "cn_name": "机动车用液化石油气钢瓶定期检验与评定",
+    "pub_date": "2006-09-12发布",
+    "impl_date": "2007-04-01实施",
+    "indicators": [],
+    "referenced_standards": [],
+    "ocr_len": 6908
+  },
+  {
+    "file": "20782-2006-gbt-e-300农业用含磷型防爆硝酸铵.pdf",
+    "std_no": "GB/T20782",
+    "cn_name": "农业用含磷型防爆硝酸铰",
+    "pub_date": "2006-12-29发布",
+    "impl_date": "2007-06-01实施",
+    "indicators": [
+      {
+        "indicator": "E",
+        "condition": ">",
+        "value": "35.035.",
+        "unit": "0"
+      },
+      {
+        "indicator": "n",
+        "condition": "=",
+        "value": "3",
+        "unit": "xJN"
+      }
+    ],
+    "referenced_standards": [],
+    "ocr_len": 6373
+  },
+  {
+    "file": "2367-2016-gbt-cd-300工业亚硝酸钠.pdf",
+    "std_no": "GB/T2367",
+    "cn_name": "工业亚硝酸钠",
+    "pub_date": "2016-12-13发布",
+    "impl_date": "2017-07-01实施",
+    "indicators": [
+      {
+        "indicator": "CELEREP)e关",
+        "condition": ">",
+        "value": "99.098.",
+        "unit": "5"
+      },
+      {
+        "indicator": "0",
+        "condition": "<",
+        "value": "0.81",
+        "unit": "3"
+      },
+      {
+        "indicator": "林澈犀平坂u张",
+        "condition": "<",
+        "value": "0.050.060.1",
+        "unit": "0"
+      },
+      {
+        "indicator": "6",
+        "condition": "=",
+        "value": "8",
+        "unit": "5"
+      }
+    ],
+    "referenced_standards": [
+      "HG/T3696",
+      "GB12268",
+      "GB/T6678",
+      "GB190",
+      "GB/T2367",
+      "GB/T191",
+      "GB/T6682",
+      "GB/T3051"
+    ],
+    "ocr_len": 6874
+  },
+  {
+    "file": "25986-2010-gbt-e-300汽车用液化天然气加注装置.pdf",
+    "std_no": "GB/T25986",
+    "cn_name": "汽车用液化天然气加注装置",
+    "pub_date": "",
+    "impl_date": "2011-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T1220",
+      "GB/T19204",
+      "GB/T3864",
+      "GB/T25986",
+      "GB/T20734",
+      "HG2167",
+      "GB/T4240",
+      "GB/T4423",
+      "GB/T9969",
+      "GB/T10125"
+    ],
+    "ocr_len": 7394
+  },
+  {
+    "file": "28962-2012-gbt-e-300GB_T 28962-2012  液化石油气汽车定型试验规程.pdf",
+    "std_no": "GB/T28962",
+    "cn_name": "液化石油气汽车定型试验规程",
+    "pub_date": "2012-12-31发布",
+    "impl_date": "2013-07-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T37301",
+      "GB/T12674",
+      "GB/T12678",
+      "GB/T12540",
+      "GB/T12543",
+      "GB/T12673",
+      "GB/T12545",
+      "GB/T6323",
+      "GB/T12536",
+      "GB7258",
+      "GB/T12539",
+      "GB19159",
+      "GB/T150892001",
+      "GB/T17895",
+      "GB/T12548",
+      "GB/T12547",
+      "GB/T632",
+      "GB/T12544",
+      "GB/T63",
+      "GB/T12534",
+      "GB/T28962",
+      "GB/T19239",
+      "GB/T12535",
+      "GB/T18697",
+      "GB/T3730",
+      "GB/T12677"
+    ],
+    "ocr_len": 5480
+  },
+  {
+    "file": "3048.9-2007-gbt-e-300电线电缆电性能试验方法　第9部分：绝缘线芯火花试验.pdf",
+    "std_no": "GB/T3048",
+    "cn_name": "电线电缆电性能试验方法",
+    "pub_date": "2007-12-03发布",
+    "impl_date": "2008-05-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T304815",
+      "GB3048",
+      "GBT3048",
+      "GB/T2900",
+      "GB/T3048"
+    ],
+    "ocr_len": 6061
+  },
+  {
+    "file": "32463-2015-gbt-cd-300.pdf",
+    "std_no": "GB/T32463",
+    "cn_name": "聚丙烯(PP-R、PP-B、PP-H)",
+    "pub_date": "",
+    "impl_date": "",
+    "indicators": [
+      {
+        "indicator": "PP-BACDE",
+        "condition": ">",
+        "value": "16",
+        "unit": "0"
+      },
+      {
+        "indicator": "h于收于收",
+        "condition": ">",
+        "value": "16",
+        "unit": "0"
+      }
+    ],
+    "referenced_standards": [
+      "GB/T32463",
+      "GB/T19466",
+      "GB/T6040"
+    ],
+    "ocr_len": 5119
+  },
+  {
+    "file": "32492-2016-gbt-cd-300液化石油气中二甲醚含量气相色谱分析法.pdf",
+    "std_no": "GB/T32492",
+    "cn_name": "液化石油气中二甲醚含量",
+    "pub_date": "2016-02-24发布",
+    "impl_date": "2017-01-01实施",
+    "indicators": [],
+    "referenced_standards": [
+      "GB/T5274",
+      "GB/T4946",
+      "GB/T32492"
+    ],
+    "ocr_len": 3884
+  }
+]

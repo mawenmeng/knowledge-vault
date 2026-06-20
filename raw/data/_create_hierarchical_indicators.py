@@ -679,7 +679,14 @@ tags: [技术指标类别, {data['category']}]
                 grade_slug = grade.replace(' ', '_').replace('(', '').replace(')', '').replace('~', 'to')
                 grade_slug = re.sub(r'[^\w\u4e00-\u9fff]', '_', grade_slug)
                 grade_slug = re.sub(r'_+', '_', grade_slug).strip('_')
-                value_links.append(f'[[{cat_dir}/{std_slug}__{cat_slug}__{subcat_slug}__{grade_slug}|{grade} {constraint}{val}{unit}]]')
+                
+                expr = f'{constraint}{val}{unit}'
+                expr_slug = expr.replace(' ', '_').replace('\u00b3', '3').replace('\u00b2', '2').replace('\u207b', '-')
+                expr_slug = expr_slug.replace('/', '\uff0f')
+                expr_slug = re.sub(r'[^\w\u4e00-\u9fff\u2265\u2264=／%]', '_', expr_slug)
+                expr_slug = re.sub(r'_+', '_', expr_slug).strip('_')
+                
+                value_links.append(f'[[{cat_dir}/{std_slug}__{cat_slug}__{subcat_slug}__{grade_slug}__{expr_slug}|{grade} {constraint}{val}{unit}]]')
             
             subcat_content = f'''---
 title: {subcat_name}
@@ -712,7 +719,13 @@ tags: [技术指标子类, {data['category']}]
                 expr = f'{constraint}{val}{unit}'
                 title = f'{grade} {expr}'
                 
-                value_node_path = os.path.join(cat_dir, f'{std_slug}__{cat_slug}__{subcat_slug}__{grade_slug}.md')
+                # Build filename with full expression for Obsidian graph display
+                expr_slug = expr.replace(' ', '_').replace('\u00b3', '3').replace('\u00b2', '2').replace('\u207b', '-')
+                expr_slug = expr_slug.replace('/', '\uff0f')
+                expr_slug = re.sub(r'[^\w\u4e00-\u9fff\u2265\u2264=／%]', '_', expr_slug)
+                expr_slug = re.sub(r'_+', '_', expr_slug).strip('_')
+                
+                value_node_path = os.path.join(cat_dir, f'{std_slug}__{cat_slug}__{subcat_slug}__{grade_slug}__{expr_slug}.md')
                 
                 value_content = f'''---
 title: {title}

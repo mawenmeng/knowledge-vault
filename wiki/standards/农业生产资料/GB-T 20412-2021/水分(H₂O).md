@@ -1,0 +1,16 @@
+---
+title: 水分(H₂O)
+type: indicator-subcategory
+std: GB-T 20412-2021
+std_name: 钙镁磷肥
+category: 农业生产资料
+tags: [技术指标子类, 农业生产资料]
+---
+
+# 水分(H₂O)
+
+**指标类别：** [[wiki/standards/农业生产资料/GB-T 20412-2021/物理性能.md]]
+
+## 指标值
+
+- [[wiki/standards/农业生产资料/GB-T 20412-2021/通用 ≤0.5%.md]]

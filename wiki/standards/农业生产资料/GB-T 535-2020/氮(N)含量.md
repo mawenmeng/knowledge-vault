@@ -1,0 +1,16 @@
+---
+title: 氮(N)含量
+type: indicator-subcategory
+std: GB-T 535-2020
+std_name: 肥料级硫酸铵
+category: 农业生产资料
+tags: [技术指标子类, 农业生产资料]
+---
+
+# 氮(N)含量
+
+**指标类别：** [[wiki/standards/农业生产资料/GB-T 535-2020/化学成分.md]]
+
+## 指标值
+
+- [[wiki/standards/农业生产资料/GB-T 535-2020/通用 ≥20.5%.md]]

@@ -51,6 +51,26 @@ updated: 2026-06-20
 
 ## 📐 标准技术指标
 
+### 📁 按监管目录分类的文件夹
+
+| 监管类别 | 文件夹 | 已有标准 | 待补充子分类 |
+|:---------|:------|:--------|:------------|
+| [[wiki/standards/家用电器及电器附件/README|家用电器及电器附件]] | `standards/家用电器及电器附件/` | — | 8个 |
+| [[wiki/standards/家具及建筑装饰装修材料/README|家具及建筑装饰装修材料]] | `standards/家具及建筑装饰装修材料/` | — | 7个 |
+| [[wiki/standards/电子及信息技术产品/README|电子及信息技术产品]] | `standards/电子及信息技术产品/` | — | 6个 |
+| [[wiki/standards/交通用具及相关产品/README|交通用具及相关产品]] | `standards/交通用具及相关产品/` | 3份/8项 | 6个 |
+| [[wiki/standards/儿童用品/README|儿童用品]] | `standards/儿童用品/` | — | 6个 |
+| [[wiki/standards/食品相关产品/README|食品相关产品]] | `standards/食品相关产品/` | — | 6个 |
+| [[wiki/standards/服装鞋帽及家用纺织品/README|服装鞋帽及家用纺织品]] | `standards/服装鞋帽及家用纺织品/` | — | 6个 |
+| [[wiki/standards/燃气器具及配件产品/README|燃气器具及配件产品]] | `standards/燃气器具及配件产品/` | — | 6个 |
+| [[wiki/standards/老年人用品/README|老年人用品]] | `standards/老年人用品/` | — | 6个 |
+| [[wiki/standards/日用杂品/README|日用杂品]] | `standards/日用杂品/` | — | 7个 |
+| [[wiki/standards/文教体育用品/README|文教体育用品]] | `standards/文教体育用品/` | — | 6个 |
+| [[wiki/standards/工业生产资料/README|工业生产资料]] | `standards/工业生产资料/` | 9份/40项 | 10个 |
+| [[wiki/standards/农业生产资料/README|农业生产资料]] | `standards/农业生产资料/` | 12份/80项 | 9个 |
+
+### 📄 已有完整标准文件
+
 | 标准页面 | 所属监管类别 | 标准数 | 指标数 |
 |:---------|:-----------:|:-----:|:-----:|
 | [[wiki/standards/农业生产资料类标准技术指标]] | 农业生产资料 | 12 | 80 |

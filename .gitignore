@@ -1,4 +1,5 @@
 # Git 忽略文件
+
 # 忽略操作系统文件
 Thumbs.db
 .DS_Store
@@ -6,3 +7,19 @@ Thumbs.db
 # 忽略 Obsidian 工作区缓存
 .obsidian/workspace.json
 .obsidian/workspace
+
+# 忽略 Obsidian 插件配置（本地环境相关）
+.obsidian/plugins/
+.obsidian/text-generator.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+
+# 忽略本地 API 服务
+.kb/
+
+# 忽略 Obsidian 生成的临时目录
+copilot/
+textgenerator/
